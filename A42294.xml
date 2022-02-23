@@ -1,0 +1,1008 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The guide of a Christian directing him to such things, as are by him, to be believed, practised, feared, and hoped for. There are added at the end prayers to be used upon several occasions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42294</idno>
+            <idno type="STC">Wing G2184B</idno>
+            <idno type="EEBO-CITATION">99827603</idno>
+            <idno type="PROQUEST">99827603</idno>
+            <idno type="VID">206867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206867)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1849:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The guide of a Christian directing him to such things, as are by him, to be believed, practised, feared, and hoped for. There are added at the end prayers to be used upon several occasions.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, corrected.</edition>
+               </editionStmt>
+               <extent>116, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Everingham, at the Star in Ludgate-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "believed, .. hoped for" are bracketed together on title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206867:1" rendition="simple:additions"/>
+            <p>THE GUIDE OF A <hi>Chriſtian,</hi> Directing him to Such Things, as are BY HIM, To be
+<list>
+                  <item>Believed,</item>
+                  <item>Practiſed,</item>
+                  <item>Feared, and</item>
+                  <item>Hoped for.</item>
+               </list>
+            </p>
+            <p>There are added at the End PRAYERS to be uſed upon Several Occaſions.</p>
+            <p>
+               <hi>The Second Edition, Corrected.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Evering<g ref="char:EOLhyphen"/>ham,</hi> at the <hi>Star</hi> in <hi>Ludgate<g ref="char:EOLhyphen"/>street,</hi> 1697,</p>
+            <pb facs="tcp:206867:2" rendition="simple:additions"/>
+            <pb facs="tcp:206867:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:206867:3" rendition="simple:additions"/>
+            <pb facs="tcp:206867:3"/>
+            <head>TO THE READER.</head>
+            <p>THis little Book was written eſpecially for the uſe of ſuch as have meaner Capacities and weaker Memories, leſs time and leſs money than others. The deſigned ſmallneſs of the Vo<g ref="char:EOLhyphen"/>lume would not admit of the printing at large all the places of Scripture which are quoted in it. But it is to be hoped that the
+<pb facs="tcp:206867:4"/>Reader will ſome time or other look them out. That will employ him well, and fix thoſe places upon his mind. Let him not be Inquiſitive about the Author, who would not be known, but conſider rather <hi>what</hi> is written than by <hi>whom.</hi> May our good God give ſuch ſucceſs to it, as may redound to his Glory, and the Benefit of thoſe who ſhall read it with attention of mind, and Honeſty of Heart. <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:206867:4"/>
+            <head>THE <hi>Guide of a Chriſtian.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Of the Faith of a Chriſtian, and the things to be be<g ref="char:EOLhyphen"/>lieved by him.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <p>A Chriſtian, when he gives, either to himſelf, or o<g ref="char:EOLhyphen"/>thers, an <hi>Account</hi> of his <hi>Faith,</hi> reſolves theſe <hi>two Que<g ref="char:EOLhyphen"/>ſtions.</hi>
+                  </p>
+                  <p n="1">1. <hi>How he comes to have that Faith, or Belief of the Doctrine of the Goſpel?</hi>
+                  </p>
+                  <p n="2">2. <hi>What are the particular
+<pb n="6" facs="tcp:206867:5"/>points of Doctrine, which he thinks moſt neceſſary to be believed?</hi>
+                  </p>
+                  <p>In Anſwer to theſe Queſtions,</p>
+                  <p n="1">1. He ſhews that he comes to be a <hi>Believer</hi> in ſome degree, by <hi>thinking</hi> on this manner. Every one does naturally deſire the continuance of his <hi>Being,</hi> and the greateſt happineſs of it that may be, whilſt it conti<g ref="char:EOLhyphen"/>nues. But he cannot have the <hi>End</hi> without the <hi>means.</hi> The <hi>means</hi> to Happineſs is <hi>Religion,</hi> which conſiſts in the <hi>true know<g ref="char:EOLhyphen"/>ledge</hi> and <hi>ſervice of</hi> God. For if there be a <hi>Creator,</hi> a Reaſonable <hi>Creature,</hi> depending wholly up<g ref="char:EOLhyphen"/>on him, cannot be <hi>happy</hi> without doing his <hi>Will,</hi> ſo far as he can know <hi>it. The means</hi> to know <hi>it</hi> are, <hi>Reaſon</hi> and <hi>Revelation.</hi> The Light of Natural <hi>Reaſon</hi> is but an imperfect Guide, and could never of it ſelf have diſ<g ref="char:EOLhyphen"/>covered the <hi>Myſteries of God's Love in Chriſt,</hi> for the Redemp<g ref="char:EOLhyphen"/>tion
+<pb n="7" facs="tcp:206867:5"/>of Mankind. (1 <hi>Cor.</hi> 2.6, 7, 8. <hi>Coloſ.</hi> 1.26, 27.) However, It ſhews us, <hi>That there is a God,</hi> from the conſideration of his <hi>works, (Rom.</hi> 1.20.) It concludes with the Apoſtle, (<hi>Heb.</hi> 3.4.) That <hi>as every Houſe is built by ſome Man, ſo he who made all things is God,</hi> or the <hi>firſt Cauſe,</hi> who is Infinite in <hi>Power, Wiſ<g ref="char:EOLhyphen"/>dom, Goodneſs</hi> and <hi>Juſtice:</hi> And that ſuch a Builder can't but take care of ſo Glorious a Structure. (<hi>Neh.</hi> 9.6.) <hi>Right Rea<g ref="char:EOLhyphen"/>ſon</hi> doth alſo, in ſome meaſure, teach Men what <hi>Worſhip</hi> and <hi>Service</hi> is agreeable to ſuch a God. He engraved <hi>a Law up<g ref="char:EOLhyphen"/>on their Hearts, (Rom.</hi> 2.14, 15.) before he wrote his <hi>Will</hi> upon <hi>Tables of Stone,</hi> and in <hi>Holy Books.</hi> But the Poſterity of Fallen <hi>Adam,</hi> forſook the Paths ſhewed to them by the true Light of Nature, and reaſoned not aright, and were led away by the corrupt Imaginations of
+<pb n="8" facs="tcp:206867:6"/>their hearts, (<hi>Gen.</hi> 6.5, 12.) In<g ref="char:EOLhyphen"/>ſomuch that they would have wandered for ever in darkneſs, if God had not in great mercy <hi>revealed his Will</hi> to them, in the <hi>Holy Scriptures</hi> of the <hi>Old</hi> and <hi>New Teſtament,</hi> which are to be our <hi>Rule of Faith and Manners</hi> to the end of the World, (<hi>Gal.</hi> 1.8, 9. <hi>Jude</hi> 3.)</p>
+                  <p>The <hi>Old Teſtament</hi> was all the <hi>Scripture</hi> of the <hi>Jewiſh Church,</hi> written by <hi>Moſes</hi> and the <hi>Pro<g ref="char:EOLhyphen"/>phets,</hi> who therein foretold of the coming of <hi>Chriſt.</hi>
+                  </p>
+                  <p>And <hi>Chriſt</hi> did recommend <hi>it</hi> as a Book of Divine Authority, (<hi>Joh.</hi> 5.39. <hi>Luke</hi> 24.27.) He proved his Doctrine by his mi<g ref="char:EOLhyphen"/>raculous <hi>Works,</hi> (<hi>Joh.</hi> 5.36. and 10.25, 38.) Him God owned as his only Son, by <hi>raiſing him from the dead,</hi> and ſhewing him to many (1 <hi>Cor.</hi> 15.3. to <hi>v.</hi> 9.) Wit<g ref="char:EOLhyphen"/>neſſes, divers of which ſealed that Truth with their Blood; and their Teſtimony is handed
+<pb n="9" facs="tcp:206867:6"/>down to us by the joint Con<g ref="char:EOLhyphen"/>ſent of the Chriſtian Church, in the ſeveral Ages of it.</p>
+                  <p>Much of the <hi>New Teſtament</hi> was written by the Apoſtles of <hi>Chriſt,</hi> (<hi>viz.</hi> S. <hi>Matthew,</hi> S. <hi>John,</hi> S. <hi>James,</hi> S. <hi>Peter,</hi> S. <hi>Jude,</hi>) who were Eye and Ear-witneſſes of what he did and ſaid, (1 <hi>John</hi> 1.1, 2, 3.) and knew that he aroſe from the dead; and they wrought Miracles in his Name, and fore<g ref="char:EOLhyphen"/>told many things which have been plainly accompliſhed. Al<g ref="char:EOLhyphen"/>ſo, they well knew that <hi>if Chriſt was not riſen,</hi> and that if they <hi>had hopes only in this Life, they of all men were most miſerable,</hi> (1 <hi>Cor.</hi> 15.19.) Yet they ran the hazard of all things dear to fleſh and blood, in teſtifying the Truth of what they had <hi>heard and ſeen,</hi> for which alſo many of them laid down their lives.</p>
+                  <p>As for St. <hi>Mark,</hi> he has writ<g ref="char:EOLhyphen"/>ten in ſhort, what St. <hi>Matthew</hi> delivered more at large; and
+<pb n="10" facs="tcp:206867:7"/>the Ancients ſay that he was the Diſciple of St. <hi>Peter.</hi> S. <hi>Luke</hi> wrote ſuch things as <hi>were deli<g ref="char:EOLhyphen"/>vered</hi> (Luk. 1.2.) <hi>to him, by thoſe who from the beginning were Eye<g ref="char:EOLhyphen"/>witneſſes and Miniſters of the Word;</hi> and he was converſant in a particular manner with St. <hi>Paul,</hi> with whom he travelled, (<hi>Act.</hi> 28.16. 2 <hi>Tim.</hi> 4.11.) To St. <hi>Paul,</hi> being a <hi>Jew,</hi> and a Per<g ref="char:EOLhyphen"/>ſecutor, Chriſt appeared in his way to <hi>Damaſcus,</hi> and conver<g ref="char:EOLhyphen"/>ted him by <hi>Miracles,</hi> (<hi>Acts</hi> 9.3, &amp;c. 1 <hi>Cor.</hi> 15.8.) and enabled him to do <hi>Miracles,</hi> (2 <hi>Cor.</hi> 12.12.) and to ſpeak and write with wonderful power. And in<g ref="char:EOLhyphen"/>deed the <hi>Scriptures</hi> are to be di<g ref="char:EOLhyphen"/>ſtinguiſht from all other Books by an extraordinary Spirit diſ<g ref="char:EOLhyphen"/>cernible in them, by Pious and Attentive Readers and Hearers. (<hi>Rom.</hi> 10.17.) And the more a Man ſtudies the <hi>Scriptures,</hi> and conſiders what is in them, and how worthy of <hi>a Governour</hi> and
+<pb n="11" facs="tcp:206867:7"/>
+                     <hi>Saviour</hi> of the VVorld all the <hi>Doctrines, Commands</hi> and <hi>Pro<g ref="char:EOLhyphen"/>miſes</hi> are, which they contain, and prays to God to enlighten his Underſtanding, and to help his weak Belief, and has <hi>a will to do God's will, (John</hi> 7.17.) and uſes the means which God hath put in his power; the greater will be his <hi>Knowledge,</hi> and the firmer his <hi>Faith.</hi>
+                  </p>
+                  <p>After ſome ſuch manner as this, a Man comes to believe that <hi>the Scriptures are of divine Authority.</hi>
+                  </p>
+                  <p>But though a man is never ſo firm in this <hi>Faith,</hi> and ſtedfaſt<g ref="char:EOLhyphen"/>ly believes every thing that is ſaid in the Bible to be true, and to come from God; yet he thinks ſome things <hi>more neceſ<g ref="char:EOLhyphen"/>ſary</hi> to be believed than others, in order to God's Glory and his own Obedience and Salvation, and the Good of Mankind. He therefore either frames to him<g ref="char:EOLhyphen"/>ſelf out of the <hi>Scriptures</hi> a
+<pb n="12" facs="tcp:206867:8"/>
+                     <hi>Form of ſound Words,</hi> (2 <hi>Tim.</hi> 1.13.) or takes that <hi>Summ of Faith</hi> for his uſe which has long been, and is ſtill confeſſed by thoſe who call themſelves <hi>Chri<g ref="char:EOLhyphen"/>ſtians.</hi> Such a <hi>Form</hi> is that which is commonly called the <hi>Apoſtles Creed,</hi> containing the Apoſtles Doctrine, and compoſed, for the main, in or nigh their Days, and continued in <hi>Chriſt</hi>'s Church to this time; and this he explains, or gets explained out of the <hi>Scriptures.</hi>
+                  </p>
+                  <p>This brings on the Second Queſtion; namely,</p>
+                  <p n="2">2. <hi>What are the particular Points of Doctrine, which he thinks moſt neceſſary to be believed?</hi> And it is Reſolved in the fol<g ref="char:EOLhyphen"/>lowing <hi>Section.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="13" facs="tcp:206867:8"/>
+                  <head>CHAP. I.</head>
+                  <head type="sub">Section 2. <hi>The Summ of Things neceſſary to be believed by a Chriſtian.</hi>
+                  </head>
+                  <p>Artic. I. <hi>I believe in God, the Fa<g ref="char:EOLhyphen"/>ther Almighty, Maker of Heaven and Earth.</hi>
+                  </p>
+                  <p>I do <hi>believe,</hi> that there is a God, an <hi>Infinite,</hi> (1 <hi>King.</hi> 8.27.) <hi>Eter<g ref="char:EOLhyphen"/>nal,</hi> (<hi>Pſ.</hi> 90.2.) <hi>Spirit,</hi> (<hi>Joh.</hi> 4.24.) abſolutely perfect; (<hi>Pſ.</hi> 147.5. <hi>Rom.</hi> 1.20.) and that this God is <hi>the Father, of whom are all things,</hi> (1 <hi>Cor.</hi> 8.6.) and who is in a more eminent manner the <hi>Father</hi> of our Lord Jeſus Chriſt, (<hi>Mat.</hi> 17.5. <hi>Joh.</hi> 1.14. <hi>Rom.</hi> 8.32.) And I do <hi>be<g ref="char:EOLhyphen"/>lieve,</hi> that <hi>Power belongeth unto him,</hi> (<hi>Pſal.</hi> 62.11.) ſo that he is able to <hi>do whatſoever he pleaſeth,</hi> (<hi>Eccleſ.</hi> 8.3.) who did at firſt <hi>create the
+<pb n="14" facs="tcp:206867:9"/>World,</hi> and all things contained therein, (<hi>Gen.</hi> 1.1.) and has <hi>pre<g ref="char:EOLhyphen"/>ſerv'd</hi> them ever ſince by His Di<g ref="char:EOLhyphen"/>vine Providence. (<hi>Neb.</hi> 9.6.)</p>
+                  <p>Art. II. <hi>And in Jeſus Chriſt, his only Son, our Lord.</hi>
+                  </p>
+                  <p>I do <hi>believe,</hi> that that Man who was born of the Virgin <hi>Mary</hi> (<hi>Luk.</hi> 2.7.) in the days of <hi>Herod,</hi> (<hi>Mat.</hi> 2.1.) and who before his birth was by an Angel from Heaven named <hi>Jeſus,</hi> (<hi>Mat.</hi> 1.21.) was the True <hi>Meſſias,</hi> the Anointed of the Lord, (<hi>Joh.</hi> 1.41. and 11.27.) whom God had <hi>ſo long,</hi> and <hi>ſo often</hi> pro<g ref="char:EOLhyphen"/>miſed to ſend into the world, to be the <hi>Saviour</hi> of Mankind, (<hi>Gen.</hi> 3.15. and 21.12. and 49.10. <hi>Deut.</hi> 18.15.) And I do alſo <hi>believe,</hi> that this Holy Perſon was neither <hi>Angel,</hi> nor <hi>Arch-Angel,</hi> nor any other <hi>Creature</hi> whatſoever, but the Son of God, by an <hi>unſpeakable Generation,</hi> begotten of God from all Eternity, (<hi>Coloſ.</hi> 1.15, 17. <hi>Heb.</hi>
+                     <pb n="15" facs="tcp:206867:9"/>1.5, 6, 10, 13.) <hi>God of God,</hi> and together with the Father and Ho<g ref="char:EOLhyphen"/>ly Ghoſt one God, (<hi>John</hi> 5.18.) bleſſed for ever, (<hi>Rom.</hi> 9.5.) and that he is rightly called <hi>our Lord,</hi> in reſpect of that <hi>Right</hi> that be<g ref="char:EOLhyphen"/>longs to him, as having firſt <hi>Cre<g ref="char:EOLhyphen"/>ated</hi> us, (<hi>Coloſ.</hi> 1.16.) and then <hi>redeemed</hi> us, (1 <hi>Pet.</hi> 1.18, 19.) and being <hi>made Lord of all things,</hi> (<hi>Acts</hi> 2.36.)</p>
+                  <p>Art. III. <hi>Who was conceived by the Holy Ghoſt, born of the Virgin</hi> Mary.</p>
+                  <p>I do <hi>believe,</hi> that Jeſus Chriſt was not conceived after the ordi<g ref="char:EOLhyphen"/>nary way, but by the wonderful Operation of the Holy Ghoſt <hi>over<g ref="char:EOLhyphen"/>ſhadowing</hi> his Virgin Mother, (<hi>Luke</hi> 1.35.) that he might aſſume our Nature without the <hi>Depravation</hi> of it. (<hi>Luk.</hi> 1.35.) And I do more<g ref="char:EOLhyphen"/>over <hi>believe,</hi> that though being conceived in that wonderful man<g ref="char:EOLhyphen"/>ner, he had no Man to his Father;
+<pb n="16" facs="tcp:206867:10"/>yet deriving his bodily ſubſtance from his Mother, he is rightly ſaid to be the <hi>Seed of the Woman,</hi> (<hi>Gen.</hi> 3.15.) of the Houſe and Family of <hi>David.</hi> (<hi>Pſ.</hi> 132.11. <hi>Mat.</hi> 15.22. <hi>Acts</hi> 2.30.) And ſo being deſcended from <hi>Adam,</hi> (<hi>Luk.</hi> 3.) he is truly call'd the <hi>Son of Man,</hi> (<hi>Mat.</hi> 8.20. <hi>Mar.</hi> 9.12. <hi>Luk.</hi> 9.22. <hi>John</hi> 5.27.)</p>
+                  <p>Art. IV. <hi>Suffered under</hi> Pontius Pilate, <hi>was Crucified, Dead and Buried; he deſcended into Hell.</hi>
+                  </p>
+                  <p>I do <hi>believe,</hi> that the only be<g ref="char:EOLhyphen"/>gotten Son of God, did, in our Na<g ref="char:EOLhyphen"/>ture, which he had aſſumed, not only <hi>really</hi> and <hi>truly</hi> ſuffer both in his <hi>body</hi> by tormenting pains, (<hi>Mat.</hi> 27.26, 29, 35.) and in his <hi>Soul</hi> by unſpeakable ſorrows, (<hi>Mat.</hi> 26.38. <hi>Luk.</hi> 22.44.) for the Redemp<g ref="char:EOLhyphen"/>tion of Mankind; <hi>(Gal.</hi> 3.13. 1 <hi>Pet.</hi> 2.24.) but even in the moſt <hi>ſhameful</hi> and <hi>ignominious</hi> manner
+<pb n="17" facs="tcp:206867:10"/>alſo, having his Hands and Feet nail'd to a <hi>Croſs,</hi> as Thieves and the vileſt <hi>Malefactors</hi> were uſed; (<hi>Luk.</hi> 23.33.) there he hung ſome Hours, (<hi>Luk.</hi> 23.44.) till he was <hi>Really</hi> dead, (<hi>Luk.</hi> 23.46.) and then, for the greater certainty of it, like other dead Men, was em<g ref="char:EOLhyphen"/>balmed, and laid in the Grave, (<hi>Luk.</hi> 23.53.) his <hi>Soul</hi> being de<g ref="char:EOLhyphen"/>parted into thoſe <hi>unknown Regions,</hi> where <hi>Souls</hi> ſeparated from their <hi>Bodies</hi> are, (<hi>Pſ.</hi> 16.10. <hi>Acts</hi> 2.31.) And I am verily perſwaded, that all this was done when <hi>Pontius Pilate</hi> was <hi>Governour</hi> of <hi>Judea,</hi> un<g ref="char:EOLhyphen"/>der <hi>Tiberius</hi> the <hi>Roman Emperour,</hi> (<hi>Luk.</hi> 3.1.)</p>
+                  <p>Art. V. <hi>The Third Day he roſe again from the Dead.</hi>
+                  </p>
+                  <p>I do <hi>believe,</hi> that Jeſus Chriſt, <hi>the Third Day</hi> after he died, accor<g ref="char:EOLhyphen"/>ding to his own Promiſe, (<hi>Joh</hi> 2.19.) and as the Scripture had fore<g ref="char:EOLhyphen"/>told, (<hi>Pſ.</hi> 16.10.) had his <hi>Soul,</hi>
+                     <pb n="18" facs="tcp:206867:11"/>by the Power of the <hi>Godhead, re<g ref="char:EOLhyphen"/>united</hi> to his <hi>Body, (Acts</hi> 2.31, 32.) ſo that he was <hi>really</hi> and <hi>truly alive</hi> again, (<hi>Luk.</hi> 24.39. <hi>Acts</hi> 1.3.) and is never to return to <hi>Death</hi> any more, (<hi>Rom.</hi> 6.9.)</p>
+                  <p>Art. VI. <hi>He Aſcended into Heaven, and ſitteth at the Right Hand of God.</hi>
+                  </p>
+                  <p>I <hi>believe,</hi> that after he was riſen from the <hi>Dead,</hi> and had converſed with his Diſciples <hi>Forty Days,</hi> (<hi>Acts</hi> 1.3.) while he was Talk<g ref="char:EOLhyphen"/>ing with them, he was taken up in a Cloud, and went into Hea<g ref="char:EOLhyphen"/>ven, Angels attending and mini<g ref="char:EOLhyphen"/>ſtring unto him, (<hi>Acts</hi> 1.9, 10.) where being <hi>exalted far above all Principalities and Powers,</hi> (<hi>Eph.</hi> 1.20, 21.) and placed in full Poſ<g ref="char:EOLhyphen"/>ſeſſion of the higheſt <hi>Power, Dig<g ref="char:EOLhyphen"/>nity</hi> and <hi>Dominion,</hi> he always ap<g ref="char:EOLhyphen"/>pears in the Preſence of God, ma<g ref="char:EOLhyphen"/>king <hi>Interceſſion for us,</hi> by vertue of that <hi>Sacrifice,</hi> which he had
+<pb n="19" facs="tcp:206867:11"/>before offered upon the <hi>Croſs,</hi> (<hi>Col.</hi> 2.16. to 22. <hi>Heb.</hi> 7.25. and 9.24.)</p>
+                  <p>Art. VII. <hi>From thence he ſhall come to judge the quick and the dead.</hi>
+                  </p>
+                  <p>I <hi>believe,</hi> that Chriſt in his Hu<g ref="char:EOLhyphen"/>mane Nature ſhall continue in <hi>Heaven</hi> till the end of the World, (<hi>Acts</hi> 3.21.) and that then he ſhall come from thence in the Clouds, attended with millions of Angels, and with the Voice of the Arch-angel, and with the Trump of God, and ſhall call all Mankind before him, <hi>(Mat.</hi> 24.30, 31.) as well thoſe that ſhall be then <hi>alive</hi> at his coming, (1 <hi>Theſſ.</hi> 4.17.) as thoſe that ſhall have been <hi>dead</hi> from the beginning of the World, (<hi>Joh.</hi> 5.28) and there ſhall <hi>Judge</hi> them all <hi>according to their Deeds, whether they have been good, or whether they have been evil,</hi> (2 <hi>Cor.</hi> 5.10.)</p>
+                  <pb n="20" facs="tcp:206867:12"/>
+                  <p>Art. VIII. <hi>I believe in the Holy Ghoſt.</hi>
+                  </p>
+                  <p>I <hi>believe,</hi> that there is a Third Perſon, (1 <hi>Joh.</hi> 5.7.) <hi>proceeding</hi> from the Father and the Son, (<hi>Joh.</hi> 15.26. <hi>Gal.</hi> 4.6.) who alſo is God; (<hi>Acts</hi> 5.4.) called in ſacred Scripture the <hi>Holy Spirit,</hi> or <hi>Holy Ghoſt;</hi> not only upon the account of his own <hi>most perfect Holineſs;</hi> and in Oppoſition to that <hi>
+                        <g ref="char:V">Ʋ</g>nclean Spirit</hi> the <hi>Devil;</hi> but alſo as he is the cauſe of all <hi>Holineſs</hi> in us, by his Graces <hi>ſancrifying</hi> our <hi>Sculs</hi> and <hi>Bodies, to the obedience of God,</hi> (1 <hi>Pet.</hi> 1.2.) and ſo making us accepta<g ref="char:EOLhyphen"/>ble to him in Jeſus Chriſt, (1 <hi>Cor.</hi> 6.11.)</p>
+                  <pb n="21" facs="tcp:206867:12"/>
+                  <p>Art. IX. <hi>The holy Catholick Church.</hi>
+                  </p>
+                  <p>I <hi>believe,</hi> that Chriſt, by the Preaching of the Goſpel, has called (not only out of <hi>Judea,</hi> but) <hi>out of all Nations a Society of Men,</hi> (<hi>Mat.</hi> 28.19. <hi>Acts</hi> 2.41, 42. and 4.32. and 5.14.) into which every one is admitted by <hi>Baptiſm,</hi> (1 <hi>Cor.</hi> 12.13.) and all are uni<g ref="char:EOLhyphen"/>ted to and under him as <hi>their Head, (Col.</hi> 1.18.)</p>
+                  <p>And that this <hi>Catholick</hi> or <hi>
+                        <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſal Church,</hi> or <hi>whole Society</hi> of Chriſtians diſperſed over the world, containeth in it, as its parts, many <hi>particular Churches;</hi> ſuch as were thoſe of <hi>Jeruſalem</hi> (the firſt <hi>Church</hi> planted by the Apoſtles) <hi>(Luk.</hi> 24.47.) <hi>Antioch, Corinth, Ephe<g ref="char:EOLhyphen"/>ſus, &amp;c.</hi> And that there is no One Governour on Earth, whom Chriſt hath appointed <hi>Head</hi> of the <hi>whole Church,</hi> or <hi>all particular Church<g ref="char:EOLhyphen"/>es,</hi> nor any who is ſufficient for ſuch a Charge.</p>
+                  <pb n="22" facs="tcp:206867:13"/>
+                  <p>I further <hi>believe,</hi> that this <hi>Church</hi> is ſet apart for <hi>Holy Services,</hi> and that the <hi>Calling</hi> and <hi>Profeſſion</hi> of the <hi>Members</hi> of it is <hi>Holy,</hi> (1 <hi>Theſſ.</hi> 4.7. 2 <hi>Tim.</hi> 1.9. and 2.19.)</p>
+                  <p>And I make no doubt, but that, according to his moſt gracious pro<g ref="char:EOLhyphen"/>miſe, againſt this <hi>Church,</hi> built up<g ref="char:EOLhyphen"/>on the <hi>Rock</hi> of that <hi>Faith</hi> which St. <hi>Peter</hi> confeſſed, (in owning Je<g ref="char:EOLhyphen"/>ſus to be <hi>the Chriſt</hi>) the <hi>Gates of Hell</hi> (or the Power and Malice of the Devil, and all his Agents) <hi>ſhall not</hi> finally <hi>prevail,</hi> (<hi>Mat.</hi> 16.18.) but that in it there will be, in ſome part or other of the World, a con<g ref="char:EOLhyphen"/>ſtant <hi>ſucceſſion of Paſtors</hi> to the end of the <hi>World,</hi> (<hi>Mat.</hi> 28.20.)</p>
+                  <div type="part">
+                     <head>The Communion of Saints.</head>
+                     <p>I do further <hi>believe,</hi> that all Chriſtians truly ſanctified, have <hi>Fel<g ref="char:EOLhyphen"/>lowſhip</hi> not only with God the <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> the <hi>Son,</hi> (1 <hi>Joh.</hi> 1.3.) and the <hi>Holy Ghoſt,</hi> (2 <hi>Cor.</hi> 13.14.) as dwelling in them, (<hi>Joh.</hi> 14.23.) but are united with the <hi>Saints
+<pb n="23" facs="tcp:206867:13"/>(Rom.</hi> 1.7. <hi>Eph.</hi> 4.16. 1 <hi>Joh.</hi> 1.7.) <hi>on Earth,</hi> the Living Members of Chriſt, in <hi>Faith</hi> and <hi>Charity,</hi> in <hi>Worſhip</hi> and <hi>Sacraments, (Acts</hi> 2.42. and 4.32. 1 <hi>Cor.</hi> 12.26. <hi>Eph.</hi> 4.5, 13.) in Chriſtian <hi>Aſſemblies, (Heb.</hi> 10.25.) from which <hi>Aſſem<g ref="char:EOLhyphen"/>blies,</hi> thoſe who <hi>wilfully</hi> withdraw, whileſt no <hi>ſinful Conditions of Com<g ref="char:EOLhyphen"/>munion</hi> are really put upon them, (tho' through Pride and Prejudice, and the Clamour of the Enemies of an Eſtabliſhment, it may be ſo ſuggeſted) do make ſuch a <hi>Schiſm, Breach</hi> or <hi>Rent</hi> in the <hi>Body</hi> of the <hi>Church,</hi> as becometh not the <hi>Mem<g ref="char:EOLhyphen"/>bers</hi> of it, but is extreamly hurt<g ref="char:EOLhyphen"/>ful to <hi>Order, Peace</hi> and <hi>Charity, (Rom.</hi> 16.17. 1 <hi>Cor.</hi> 1.10. and 12.25, 26.) diſhonourable to Religion, and diſpleaſing to Almighty God, <hi>(Gal.</hi> 5.20, 21.)</p>
+                     <p>Art. X. <hi>The Forgiveneſs of Sins.</hi>
+                     </p>
+                     <p>I do <hi>believe,</hi> that not only all the Sins whatſoever any Perſon was
+<pb n="24" facs="tcp:206867:14"/>guilty of <hi>before</hi> he was <hi>Baptized,</hi> are <hi>forgiven</hi> unto him at his <hi>Bap<g ref="char:EOLhyphen"/>tiſm,</hi> if he was duly qualified for the receiving of that <hi>Holy Ordi<g ref="char:EOLhyphen"/>nance,</hi> (<hi>Acts</hi> 2.38. and 22.16.) but alſo, that all the Sins that any Perſon ſhall commit <hi>after Baptiſm,</hi> ſhall likewiſe, upon his <hi>true Repen<g ref="char:EOLhyphen"/>tance,</hi> be <hi>forgiven</hi> him by God, <hi>(Mar.</hi> 3.28. <hi>Luk.</hi> 24.47.) for the ſake of Chriſt's <hi>meritorious ſacrifice,</hi> once offered on the Croſs, (<hi>Heb.</hi> 9.26.) by which he made <hi>Atone<g ref="char:EOLhyphen"/>ment</hi> for the <hi>ſins</hi> of the World, (<hi>Rom.</hi> 5.11. <hi>Col.</hi> 1.20. and 2.13, 14. 1 <hi>Joh.</hi> 4.10.)</p>
+                     <p>Art. XI. <hi>The Reſurrection of the Body.</hi>
+                     </p>
+                     <p>I do <hi>believe,</hi> that as <hi>it is ap<g ref="char:EOLhyphen"/>pointed for all Men once to die,</hi> (<hi>Heb.</hi> 9.27.) ſo is it alſo determin<g ref="char:EOLhyphen"/>ed, That at the end of the World there ſhall be a <hi>general Reſurrection of the Dead, both of the juſt and unjuſt,</hi> (<hi>Act.</hi> 24.15.) their <hi>Bodies</hi>
+                        <pb n="25" facs="tcp:206867:14"/>(however their Parts may, before that, be ſcartered or diſſolved) be<g ref="char:EOLhyphen"/>ing by the <hi>Almighty Power</hi> of God raiſed again, and re-united to their <hi>Souls,</hi> (<hi>Job</hi> 19. 26, 27.) <hi>never</hi> to be ſeparated any more, (1 <hi>Cor.</hi> 15.42, 53.) And that as all the <hi>just</hi> ſhall be raiſed to a <hi>Reſurrecti<g ref="char:EOLhyphen"/>on of Life;</hi> ſo ſhall all the <hi>unjust</hi> to a <hi>Reſurrection of Damnation, (Joh.</hi> 5.29.)</p>
+                     <p>Art. XII. <hi>And the Life Everlaſting.</hi>
+                     </p>
+                     <p>I do <hi>believe,</hi> that at the gene<g ref="char:EOLhyphen"/>ral Reſurrection of the Laſt Day, all Men ſhall be rewarded <hi>accord<g ref="char:EOLhyphen"/>ing to their Deeds,</hi> which they have <hi>done in their Bodies,</hi> (2 <hi>Cor.</hi> 5.10.) they that have done <hi>good</hi> ſhall go into <hi>Everlaſting Life, (Mat.</hi> 25.46.) a ſtate of perfect Joy and Happi<g ref="char:EOLhyphen"/>neſs for ever; and they that have done <hi>evil,</hi> into <hi>everlaſting puniſh<g ref="char:EOLhyphen"/>ment,</hi> (<hi>Mat.</hi> 25.46.) a ſtate of un<g ref="char:EOLhyphen"/>ſpeakable Woe and Miſery, where there ſhall be <hi>weeping and gnaſhing
+<pb n="26" facs="tcp:206867:15"/>of Teeth</hi> to all <hi>Eternity, (Mat.</hi> 25.30.)</p>
+                     <p>Theſe are the <hi>Articles of the Faith of a Christian Man.</hi>
+                     </p>
+                     <p>But if this <hi>Faith,</hi> tho' never ſo firmly <hi>believed,</hi> does not <hi>work by Love,</hi> (1 <hi>Cor.</hi> 7.19. <hi>Gal.</hi> 5.6. and 6.15.) it is <hi>vain,</hi> it is <hi>dead,</hi> it is ſuch a <hi>Faith</hi> as the <hi>Devils</hi> have, who <hi>believe and tremble,</hi> but do not obey. Therefore we go on to ſhow thoſe <hi>Christian</hi> Works or Duties, which are the <hi>Fruits</hi> of <hi>True Faith,</hi> and which, together with the <hi>belief</hi> of <hi>Revealed Doctrine,</hi> are called <hi>Faith,</hi> or an <hi>Embracing the Goſpel,</hi> (<hi>Mar.</hi> 16.16. <hi>Joh.</hi> 3.18, 19.) And this <hi>Faith</hi> God ac<g ref="char:EOLhyphen"/>counts, through Chriſt, as the <hi>Per<g ref="char:EOLhyphen"/>formance</hi> of the <hi>Condition</hi> on our part, of the Covenant of <hi>Baptiſm, (Heb.</hi> 5.9. 1 <hi>Pet.</hi> 3.21.)</p>
+                  </div>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="27" facs="tcp:206867:15"/>
+               <head>CHAP. II. <hi>Of the Things to be Practiſed by a Chriſtian.</hi>
+               </head>
+               <p>THE <hi>Duties</hi> belonging to a <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> Reſpect, <hi>God, our ſelves,</hi> and <hi>our Neighbours, (Tit.</hi> 2.11, 12.) The <hi>Goſpel</hi> offering <hi>Salvation</hi> to all Men upon the Terms of a <hi>Godly, Sober,</hi> and <hi>Righteous Life,</hi> through the <hi>Merits</hi> of Chriſt Jeſus.</p>
+               <div n="1" type="section">
+                  <head>
+                     <hi>Section</hi> I.</head>
+                  <p>Of <hi>Duties towards God,</hi> to be <hi>practiſed</hi> by every one that be<g ref="char:EOLhyphen"/>lieves in him.</p>
+                  <p>Such Duties to God are, to <hi>Love</hi> and <hi>Fear him;</hi> to <hi>Repent and turn to him;</hi> to <hi>Honour and Glorifie him;</hi> and to <hi>Trust in</hi> and <hi>Rely upon him,</hi> with <hi>Contentment, Reſignation,</hi> and <hi>Thankfulneſs to God.</hi>
+                  </p>
+                  <div n="1" type="duty">
+                     <head>1. <hi>To Love God.</hi>
+                     </head>
+                     <p>God is the <hi>Chief Good,</hi> and there<g ref="char:EOLhyphen"/>fore he is to be <hi>loved</hi> both by the
+<pb n="28" facs="tcp:206867:16"/>
+                        <hi>Approbation of the Mind,</hi> and the <hi>Af<g ref="char:EOLhyphen"/>fection of the Heart;</hi> and we are to <hi>Love</hi> him with <hi>all our Hearts,</hi> and with <hi>all our Souls;</hi> and to ſhow we do ſo, by <hi>Keeping his Commandments,</hi> (<hi>John</hi> 14.15.) by <hi>chuſing to ſuffer</hi> for his ſake, <hi>rather than to ſin,</hi> (<hi>Heb.</hi> 11.25.) by our <hi>delighting</hi> to <hi>con<g ref="char:EOLhyphen"/>verſe</hi> with him in <hi>Prayer</hi> and <hi>Praiſ<g ref="char:EOLhyphen"/>es,</hi> in <hi>Reading</hi> and <hi>Hearing</hi> his <hi>Word,</hi> and <hi>Receiving</hi> the <hi>Sacrament;</hi> e<g ref="char:EOLhyphen"/>ſteeming, with <hi>David, One Day in his Courts better than a Thouſand elſe<g ref="char:EOLhyphen"/>where,</hi> (<hi>Pſal.</hi> 84.10.) And by our coming to thoſe <hi>Spiritual Ex<g ref="char:EOLhyphen"/>erciſes,</hi> with the ſame <hi>Earnestneſs</hi> as the panting Hart does to the Water-Brooks, and with the ſame chearfulneſs of Mind, though not always the ſame Senſe of it, as we go to viſit our deareſt Friends. And, <hi>Laſtly,</hi> by our <hi>longing Deſire</hi> to Enjoy him in Glo<g ref="char:EOLhyphen"/>ry, not thinking the Labour and Service of our <hi>whole Lives</hi> too much towards the attaining that <hi>bleſſed</hi> State; nor ſetting up our <hi>Reſt</hi> on this ſide Heaven, (<hi>Heb.</hi> 11.16.) but preſſing and <hi>haſtning</hi> towards it with <hi>Devout Affections,</hi> and
+<pb n="29" facs="tcp:206867:16"/>
+                        <hi>Holy Diligence;</hi> being <hi>willing,</hi> when <hi>God calls,</hi> to go out of the World, and <hi>patient</hi> to ſtay till he <hi>calls.</hi>
+                     </p>
+                  </div>
+                  <div n="2" type="duty">
+                     <head>2. <hi>To Fear God.</hi>
+                     </head>
+                     <p>
+                        <hi>Fear</hi> is a very affecting and pow<g ref="char:EOLhyphen"/>erful Paſſion; and is a moſt forci<g ref="char:EOLhyphen"/>ble means to <hi>hold</hi> us to our Duty, and to <hi>reſtrain</hi> us from ſin: For how can he preſume to offend by any <hi>wilful</hi> neglect of his Duty, or by the commiſſion of any known ſin, that conſiders either the <hi>Know<g ref="char:EOLhyphen"/>ledge</hi> and <hi>Power</hi> of God, or His <hi>Pu<g ref="char:EOLhyphen"/>rity,</hi> and hatred of Sin? That He <hi>underſtands</hi> all our <hi>Thoughts, hears</hi> all our <hi>Words, diſcerns</hi> all our <hi>Acti<g ref="char:EOLhyphen"/>ons,</hi> as well <hi>ſecret</hi> as <hi>open;</hi> (<hi>Pſal.</hi> 139.1, to 17.) and will as certain<g ref="char:EOLhyphen"/>ly <hi>puniſh</hi> all ſin <hi>unrepented of,</hi> as He <hi>hates</hi> and <hi>condemns</hi> it? For as He is <hi>able to caſt both body and ſoul into Hell, (Luk.</hi> 12.5.) ſo he has de<g ref="char:EOLhyphen"/>clared, That he <hi>will</hi> do it. (<hi>Mat.</hi> 25.41. 2 <hi>Theſ.</hi> 1.8. <hi>Rev.</hi> 21.8.)</p>
+                     <p>And therefore the Scripture re<g ref="char:EOLhyphen"/>quires that we ſhould <hi>ſerve the Lord with Fear,</hi> (<hi>Pſ.</hi> 2.11. <hi>Heb.</hi> 12.28.)</p>
+                     <p>But then this <hi>Fear</hi> is not <hi>ſervile</hi> or <hi>ſlaviſh;</hi> that no longer reſtrains
+<pb n="30" facs="tcp:206867:17"/>us from ſin than the Rod is before us, or held over us; but <hi>Filial,</hi> the <hi>Fear</hi> of a Child, that is afraid of diſpleaſing his Father, becauſe he is his Father, and to whom he al<g ref="char:EOLhyphen"/>ways pays, as well as owes, the greateſt Reverence and Obedience.</p>
+                  </div>
+                  <div n="3" type="duty">
+                     <head>3. <hi>To Repent and Turn to God.</hi>
+                     </head>
+                     <p>That which the Apoſtle ſtiles <hi>Repentance towards God, (Acts</hi> 20.21.) is a <hi>turning</hi> from ſin <hi>unto God.</hi> It's that which begins in the Knowledge of our ſelves, and ends in the actual forſaking of all ſin, that we come thus to the Know<g ref="char:EOLhyphen"/>ledge of. And therefore as the Scripture has made this <hi>neceſſa<g ref="char:EOLhyphen"/>ry</hi> by way of <hi>Command;</hi> and without which we are told we ſhall <hi>All</hi> certainly <hi>periſh,</hi> (<hi>Luke</hi> 13.3, 5.) ſo whoever undertakes it, muſt ſtrictly enquire into the ſtate of his own Soul, carefully <hi>Re-view</hi> his paſt Life, and com<g ref="char:EOLhyphen"/>pare his Actions with the Law of God (the only Rule and Mea<g ref="char:EOLhyphen"/>ſure of Obedience.) And ſuch as he finds his <hi>Sins</hi> are, ſuch muſt his <hi>Repentance</hi> be. There muſt be <hi>Re<g ref="char:EOLhyphen"/>collection,
+<pb n="31" facs="tcp:206867:17"/>Self-Condemnation, Con<g ref="char:EOLhyphen"/>feſſion, Deprecation, Reſolution, Prayer</hi> for <hi>Grace</hi> to perform it, and, in a word, <hi>a new Nature.</hi> Here al<g ref="char:EOLhyphen"/>ſo, the better to underſtand his Condition, he muſt conſider the <hi>heinouſneſs</hi> of his Sins, in reſpect of the great and manifold <hi>Aggrava<g ref="char:EOLhyphen"/>tions</hi> of them: Againſt what <hi>Con<g ref="char:EOLhyphen"/>victions,</hi> with what <hi>Deliberation,</hi> againſt what <hi>Vows</hi> and <hi>Reſolutions,</hi> how <hi>often,</hi> how <hi>long</hi> he has offended.</p>
+                     <p>And becauſe, at the laſt, we can never come to a perfect Knowledg of our ſelves, ſo as to remember whatever of that kind is paſt; or to obſerve the Daily Infirmities we are incident unto, we muſt ſay with <hi>David, Who can understand his Er<g ref="char:EOLhyphen"/>rors?</hi> And with him pray, <hi>Cleanſe thou me,</hi> O Lord, <hi>from ſecret</hi> (or un<g ref="char:EOLhyphen"/>known) <hi>Faults, (Pſ.</hi> 19.12.)</p>
+                     <p>To <hi>our Convictions</hi> muſt be ad<g ref="char:EOLhyphen"/>ed <hi>a preſent and ſtedfaſt Reſolution of forſaking all thoſe Sins that we are thus convinced of.</hi> Unleſs it be <hi>preſent,</hi> and both taken up and followed without delay, we ſhall ſoon forget thoſe <hi>Reſolutions.</hi> And unleſs it be <hi>ſtedfaſt,</hi> our <hi>Convictions</hi>
+                        <pb n="32" facs="tcp:206867:18"/>will ſoon loſe their Force, and we ſhall return to the ſame State a<g ref="char:EOLhyphen"/>gain. Having Once <hi>Reſolv'd,</hi> we muſt loſe no Time, leſt by Delays our Caſe grows to be dangerous, and we finally periſh in the midſt of ſuch <hi>ineffectual Reſolutions.</hi> When we walk abroad, we are not ſure to come back alive. When we lie down to ſleep, we know not whe<g ref="char:EOLhyphen"/>ther e're we ſhall awake, till we hear the ſound of the laſt Trump. Or when we come upon our Death Bed, who can tell but that the vi<g ref="char:EOLhyphen"/>olence of bodily Pains and Diſtem<g ref="char:EOLhyphen"/>pers may diſtract us, and render us altogether unfit for ſuch a great Work as that of <hi>Repentance,</hi> which requires the utmoſt Force of all the Powers and Faculties of our Souls to accompliſh it? And then, having all our Life-time thus put off our <hi>Repentance,</hi> and Re<g ref="char:EOLhyphen"/>jected the Offers of Divine Grace, God may juſtly reject us, (<hi>Prov.</hi> 1.27, <hi>&amp;c.</hi>) So neceſſary is it for us <hi>to remember our Creator before the evil days come, (Eccleſ.</hi> 12.1.) and <hi>to redeem the time,</hi> and to <hi>awake out of ſleep,</hi> (this drowſie and ſtu<g ref="char:EOLhyphen"/>pid
+<pb n="33" facs="tcp:206867:18"/>condition) and <hi>ariſe from the dead,</hi> if we expect <hi>Chriſt ſhould give us Light, (Eph.</hi> 5.14, 16.)</p>
+                     <p>To this Duty of <hi>Repentance</hi> is that of <hi>Fasting</hi> to be joyned.</p>
+                     <p>A <hi>Duty</hi> I call it; for how little ſoever it be regarded, we find it enjoyned by Almighty God, (<hi>Joel</hi> 2.12.) Re-inforced by our Savi<g ref="char:EOLhyphen"/>our, (<hi>Mat.</hi> 6.16, 17. &amp; 9.15.) and practiſed by the holy People of God in all Ages. As by <hi>Eſther</hi> (4.16.) by <hi>Anna, (Luk.</hi> 2.37.) by the <hi>Apoſtles, (Acts</hi> 13.2, 3. 2 <hi>Cor.</hi> 6.5.) And becauſe of the Excellent Uſe and Advantage it is of, as well as becauſe of the Divine Inſtituti<g ref="char:EOLhyphen"/>on, 'tis frequently in holy Writings joyned to <hi>Prayer, (Mat.</hi> 17.21. <hi>Luke</hi> 2.37. <hi>Acts</hi> 14.23. 1 <hi>Cor.</hi> 7.5.)</p>
+                     <p>And of ſingular uſe it is, as being a fit means to <hi>keep under the Body, and bring it into ſubjection,</hi> and to render <hi>it</hi> the more helpful to the Soul in Humiliation and Devo<g ref="char:EOLhyphen"/>tion. But how far it can be uſed by the <hi>Aged</hi> and <hi>Infirm,</hi> muſt, in great meaſure, be left to their Prudence. And here we are to ob<g ref="char:EOLhyphen"/>ſerve, That the <hi>afflicting of the
+<pb n="34" facs="tcp:206867:19"/>Soul for Sin,</hi> and the <hi>Abſtaining from Sin,</hi> is the principal thing which God Regards in our <hi>Fasts.</hi> He requires us to <hi>Rent our Hearts rather than our Garments, (Joel</hi> 2.13.) to bewail our <hi>Perſonal</hi> and <hi>National Sins, to looſe the Bands of Wickedneſs, to undo the heavy bur<g ref="char:EOLhyphen"/>thens, and to let the Oppreſſed go free; to deal our Bread to the Hungry, and bring the Poor that are cast out to our Houſes, and to give a covering to the naked, (Iſa.</hi> 58.6, 7.) And this we muſt do without Oſtentation, and deſire of Vain-Glory, (<hi>Mat.</hi> 6.16.) And <hi>then</hi> we may <hi>call, and the Lord will anſwer, (Iſa.</hi> 58.9.) and for<g ref="char:EOLhyphen"/>give all our <hi>Perſonal</hi> and <hi>National</hi> Iniquities and Backſlidings, and give us what we ſtand in need of.</p>
+                  </div>
+                  <div n="4" type="duty">
+                     <head>4. <hi>To Honour and Glorifie God.</hi>
+                     </head>
+                     <p>The <hi>Glory</hi> of God is the higheſt <hi>End of Man, (Rom.</hi> 11.33, 36. 1 <hi>Cor.</hi> 10.31. <hi>Phil.</hi> 1.11. 1 <hi>Pet.</hi> 4.11.) The <hi>glorifying</hi> of him conſiſteth in a moſt Reverend <hi>Eſteem</hi> of him, as a God Infinite in Power, Wiſdom and Goodneſs; and in expreſſing and <hi>ſetting forth</hi> that <hi>Eſteem</hi> by all
+<pb n="35" facs="tcp:206867:19"/>the fit ways we are capable of. This is done,</p>
+                     <p n="1">1. By <hi>Divine Meditation.</hi> And this is undoubtedly a Duty very becoming a Chriſtian, when he is in his <hi>Houſe</hi> or <hi>Cloſet,</hi> or in a Jour<g ref="char:EOLhyphen"/>ney, or walking alone in the Fields, or in his Garden, or working at his Calling, or waking on his Bed; as Occaſions ſhall be preſented to him, to contemplate his own Unworthi<g ref="char:EOLhyphen"/>neſs, and God's Greatneſs and Goodneſs, and the admirable Ef<g ref="char:EOLhyphen"/>fects of them. The World abounds with Objects which afford him Matter enough for the employing his buſie and active Soul in <hi>Contem<g ref="char:EOLhyphen"/>plation.</hi> This was the Exerciſe of <hi>Iſaac,</hi> and <hi>David,</hi> and other De<g ref="char:EOLhyphen"/>vout Souls, (<hi>Gen.</hi> 24.63. <hi>Pſal.</hi> 63.6.) We need look no farther for Precedents than the Book of <hi>Pſalms,</hi> a great part of which ſeems to be the Product of the Pious and Hea<g ref="char:EOLhyphen"/>venly <hi>Meditations</hi> of <hi>David,</hi> and of Others, in their Solitudes and Private Retirements. Sometimes the <hi>Pſalmiſt contemplates</hi> the <hi>Works of the Creation,</hi> ſaying; <hi>Lord, how wonderful are thy Works! In Wiſdom
+<pb n="36" facs="tcp:206867:20"/>haſt thou made them all, (Pſal.</hi> 104.24.) Sometimes he <hi>meditates</hi> on the Works of God's <hi>Providence,</hi> ſaying, <hi>O Lord, thou preſerveſt Man and Beast, (Pſ.</hi> 36.6.) Sometimes he <hi>meditates</hi> upon <hi>God's Laws;</hi> crying out, <hi>O! how I love thy Law! it is my meditation all the day, (Pſ.</hi> 119.97.) But the Nobleſt of all the Subjects of <hi>Meditation,</hi> is God's ineſtimable Love in the Redemp<g ref="char:EOLhyphen"/>tion of the World, by the Ever<g ref="char:EOLhyphen"/>bleſſed Jeſus, (<hi>John</hi> 3.16. 1 <hi>Joh.</hi> 4.9.)</p>
+                     <div n="1" type="benefit">
+                        <head>Of <hi>Pious</hi> and <hi>Heavenly Meditation</hi> there are theſe following <hi>Benefits.</hi>
+                        </head>
+                        <p>Firſt, By <hi>Meditation</hi> our Good Thoughts are better digeſted, and we encreaſe in Knowledge and Grace.</p>
+                        <p>Secondly, By <hi>Contemplating</hi> the <hi>Works of the Creation,</hi> and <hi>Provi<g ref="char:EOLhyphen"/>dence,</hi> and finding how ſmall a part we are of it, it moves us to humble our ſelves, and to cry out with the <hi>Pſalmiſt, Lord, what is Man that thou art mindful of him!</hi> &amp;c. (<hi>Pſ.</hi> 8.4.)</p>
+                        <p>Thirdly, By <hi>Meditating</hi> upon
+<pb n="37" facs="tcp:206867:20"/>
+                           <hi>Heaven</hi> and <hi>Hell, Death</hi> and <hi>Judg<g ref="char:EOLhyphen"/>ment,</hi> our <hi>Fears</hi> are raiſed in or<g ref="char:EOLhyphen"/>der to the preventing of <hi>Evil,</hi> and our <hi>Hopes</hi> in order to the doing of <hi>Good.</hi>
+                        </p>
+                        <p>Fourthly, The Devil, who watch<g ref="char:EOLhyphen"/>es all Opportunities, is by this means prevented from caſting in<g ref="char:EOLhyphen"/>to our Souls evil Thoughts, and ſinful Imaginations. In all theſe reſpects, <hi>bleſſed is the Man who doth meditate good things, (Eccluſ.</hi> 14.20.)</p>
+                        <p n="2">2. God is <hi>glorified,</hi> by our <hi>di<g ref="char:EOLhyphen"/>recting</hi> even our <hi>common Actions</hi> to this great <hi>end,</hi> and particularly thoſe (1 <hi>Cor.</hi> 10.31.) of <hi>eating and drinking,</hi> not beginning a <hi>Meal</hi> without <hi>Prayer,</hi> nor ending <hi>it</hi> without <hi>Thanksgiving;</hi> in ſome ſuch <hi>Forms</hi> as are ſet down at the <hi>end</hi> of this <hi>Book.</hi>
+                        </p>
+                        <p n="3">3. God is <hi>glorified</hi> by our <hi>ſpeak<g ref="char:EOLhyphen"/>ing piouſly</hi> and <hi>honourably of Him</hi> in <hi>Converſation,</hi> upon all fit Occaſions, in order to the ſtirring up others to give Him Glory, (<hi>Mal.</hi> 3.16. <hi>Col.</hi> 3.16. and 4.6.)</p>
+                        <p>Contrary to this Duty is <hi>the diſ<g ref="char:EOLhyphen"/>honouring of God,</hi>
+                        </p>
+                        <p n="1">
+                           <pb n="38" facs="tcp:206867:21"/>1. By <hi>Blaſphemies,</hi> or ſpeaking ill of God; or by our wicked Converſation bringing <hi>an evil re<g ref="char:EOLhyphen"/>port</hi> upon Him; for thus was <hi>the Name of God blaſphemed, among the Gentiles, (Rom.</hi> 2.23, 24.) by thoſe wicked <hi>Jews</hi> who boaſted of the Law, but did not keep it. And let all profane Wretches con<g ref="char:EOLhyphen"/>ſider, what they do in their <hi>Hours of Revelling,</hi> or at any other time when they <hi>ſcoff</hi> at Religion, and make a <hi>jest</hi> of the Holy Scriptures; for God will alſo take his time <hi>to laugh at their Calamities, and to mock when their Fear cometh, (Prov.</hi> 1.26.)</p>
+                        <p n="2">2. By <hi>Oaths and Curſes.</hi> This is one of the Crying Sins of the Age, when many can hardly pronounce ten Words without <hi>Swearing</hi> and <hi>Imprecation.</hi> Too often they wiſh, that which of all things in the World they ſhould dread, <hi>even their own Damnation,</hi> in courſe of Talk, and without being tempted or provok'd.</p>
+                        <p n="3">3. To theſe Sins may be added <hi>Falſe Oaths,</hi> or <hi>wilful Perjuries;</hi> for the avoiding of which, let ſuch as
+<pb n="39" facs="tcp:206867:21"/>are tempted hereto, conſider what is ſaid in (<hi>Malachy</hi> 3.5.) <hi>I will come near to you to Judgment, and I will be a ſwift Witneſs againſt the Sorcerers, and against the Adulterers, and againſt falſe Swearers, — and fear not me, ſaith the Lord of Hosts.</hi> See alſo (<hi>Zach.</hi> 5.4.)</p>
+                        <p n="4">4. There is yet another ſort of <hi>Perjury,</hi> which is a <hi>raſh Oath,</hi> when any one <hi>Swears</hi> at a venture, not knowing whether the thing be ſo or not.</p>
+                        <p>Now, by all theſe, God is high<g ref="char:EOLhyphen"/>ly <hi>diſhonoured,</hi> and provoked; and therefore <hi>when thou hast made a Vow to God,</hi> or Promiſe to Man, per<g ref="char:EOLhyphen"/>form it, if it be in thy power. (<hi>Eccleſ.</hi> 5.4.) When thou art cal<g ref="char:EOLhyphen"/>led before a Lawful <hi>Magiſtrate,</hi> be<g ref="char:EOLhyphen"/>ware of a <hi>falſe,</hi> or <hi>raſh Oath;</hi> and in common Diſcourſe take our Sa<g ref="char:EOLhyphen"/>viours Advice, or rather obey his Command, and <hi>Swear not at all: (Mat.</hi> 5.34.) For God <hi>will not hold him guiltleſs that taketh his Name in vain, (Exod.</hi> 20.7.)</p>
+                        <p n="4">4. God is <hi>honoured</hi> and <hi>glorified,</hi> by a <hi>frequent repairing</hi> to thoſe <hi>Places</hi> which are <hi>ſet apart for his
+<pb n="40" facs="tcp:206867:22"/>Service,</hi> and by a <hi>decent Behaviour</hi> in them; not coming to Church out of meer <hi>Formality,</hi> nor em<g ref="char:EOLhyphen"/>ploying our Time there other<g ref="char:EOLhyphen"/>wiſe than becometh ſuch as conſi<g ref="char:EOLhyphen"/>der the <hi>Holy Ends</hi> for which Chri<g ref="char:EOLhyphen"/>ſtians Aſſemble; that is, to <hi>glorifie</hi> God in his <hi>Perfections,</hi> to <hi>bleſs</hi> Him for his <hi>Mercies,</hi> to <hi>ask Bleſ<g ref="char:EOLhyphen"/>ſings</hi> of Him, to <hi>hear</hi> his <hi>holy Word,</hi> and to <hi>celebrate</hi> his <hi>Sacraments.</hi>
+                        </p>
+                        <p n="5">5. In <hi>giving God thoſe things that are Gods, (Mat.</hi> 22.21.) and not <hi>robbing</hi> Him of his <hi>Tythes</hi> and <hi>Offerings,</hi> nor <hi>alienating Lands, Houſes,</hi> or <hi>Goods,</hi> given by the Owners for <hi>truly pious <g ref="char:V">Ʋ</g>ſes, (Mal.</hi> 3.8. 1 <hi>Cor.</hi> 9.13, 14.) All which will come under the Sin of <hi>Sacri<g ref="char:EOLhyphen"/>ledge,</hi> and will bring a <hi>Curſe</hi> upon us, both in our Perſons and Eſtates, <hi>(Mal.</hi> 3.9.)</p>
+                        <p n="6">6. In <hi>keeping Holy</hi> the <hi>Times</hi> appointed for <hi>Divine Worſhip.</hi> Thus the <hi>Jews</hi> kept the <hi>Seventh Day</hi> in Memory of the <hi>Creation of the World, (Gen.</hi> 2.2, 3.) and we keep the <hi>Lord's Day</hi> in Memory of the <hi>Reſurrection of Chriſt. (Mat.</hi> 28.1. <hi>Rev.</hi> 1.10.) That and other <hi>Days</hi>
+                           <pb n="41" facs="tcp:206867:22"/>ſet apart for Gods Worſhip, are not Seaſons for worldly Buſineſs, Accounts, Journeys, or even Phy<g ref="char:EOLhyphen"/>ſick or Sleep, as ſome, without ne<g ref="char:EOLhyphen"/>ceſſity, make them; but for Piety and Devotion, both at Home and in Publick; and for Charity alſo, <hi>(Acts</hi> 20.7. 1 <hi>Cor.</hi> 16.2.) And ſeeing that God has given us all the <hi>Time</hi> we enjoy, we ſhould not grudge Him ſuch ſmall Portions of <hi>it,</hi> as He requires.</p>
+                        <p n="7">7. <hi>By Worſhipping God,</hi> which con<g ref="char:EOLhyphen"/>taineth in it,
+<list>
+                              <item>1. <hi>Adoration.</hi>
+                              </item>
+                              <item>2. <hi>Prayer.</hi>
+                              </item>
+                           </list>
+                        </p>
+                        <p n="1">1. <hi>Adoration,</hi> which is an Act of the deepeſt Reverence of Soul and Body, when we ſet God before us, as the Object of our Devotion. (<hi>Pſal.</hi> 95.6.) Thus we admire and celebrate the glorious <hi>Nature, Attributes</hi> and <hi>Works</hi> of God, and with <hi>Holy Raptures</hi> make acknow<g ref="char:EOLhyphen"/>ledgment of his Infinite Love to Mankind, revealed in the Diſpen<g ref="char:EOLhyphen"/>ſation of the Goſpel. <hi>Adoration</hi> is a Duty we owe to God alone, and therefore we are expreſly forbid, <hi>to make to our ſelves any graven Image,
+<pb n="42" facs="tcp:206867:23"/>or to Bow down to and Worſhip the likeneſs of any thing in Heaven, the Earth, or the Water. (Exod.</hi> 20.4, 5.) And, in <hi>Baptiſm,</hi> we do, in effect, promiſe not to Worſhip the <hi>De<g ref="char:EOLhyphen"/>vil,</hi> or to make any Compact or Contract with him, by <hi>Witchcraft,</hi> or any other way whatever, or to conſult with thoſe that do, or may be thought ſo to do, for recovery of <hi>Goods, Health, &amp;c.</hi> And as we are forbid the <hi>outward Idolatry</hi> to Creatures, ſo we are forbid the <hi>inward Idolatry</hi> of the <hi>Heart,</hi> in placing our <hi>Affections</hi> upon any thing here below, more than upon <hi>the Lord our God, whom only we are to Worſhip and Serve, (Mat.</hi> 4.10. <hi>Phil.</hi> 3.19. <hi>Col.</hi> 3.5.)</p>
+                     </div>
+                     <div n="2" type="benefit">
+                        <head>2. <hi>Prayer.</hi>
+                        </head>
+                        <p>
+                           <hi>Prayer</hi> has <hi>ſix Branches,</hi> viz. <hi>Con<g ref="char:EOLhyphen"/>feſſion, Profeſſion, Petition, Depre<g ref="char:EOLhyphen"/>cation, Interceſſion</hi> and <hi>Thanksgiving.</hi> In <hi>all which,</hi> Purity of Heart, Re<g ref="char:EOLhyphen"/>verence, Humility, Faith, Zeal, and Freedom from wandring of Mind and diſturbance of Paſſion, become Holy Men and Women.</p>
+                        <div n="1" type="branch">
+                           <head>1. <hi>Confeſſion.</hi>
+                           </head>
+                           <p>That is, <hi>acknowledging,</hi> either
+<pb n="43" facs="tcp:206867:23"/>
+                              <hi>in groſs,</hi> that we are ſinful; or <hi>in particular,</hi> enumerating the ſeve<g ref="char:EOLhyphen"/>ral <hi>Sorts, Acts</hi> and <hi>Aggravations</hi> of our Sins, and heartily bewailing the ſame; but that of enumerating the <hi>Sorts</hi> and <hi>Acts</hi> is only fit for our private <hi>Cloſets</hi> and Retirements, after we have taken a ſerious <hi>Re<g ref="char:EOLhyphen"/>view</hi> of our Lives; and eſpecially of the <hi>Thoughts, Words</hi> and <hi>Deeds</hi> of the Day <hi>past.</hi>
+                           </p>
+                        </div>
+                        <div n="2" type="branch">
+                           <head>2. <hi>Profeſſion.</hi>
+                           </head>
+                           <p>This is an humble <hi>Declaration</hi> of our hearty ſorrow for the Sins we have <hi>Confeſſed,</hi> and our hatred of them, and our <hi>Reſolution,</hi> by the Grace of God, to <hi>bring forth the Fruits of Repentance,</hi> and amend<g ref="char:EOLhyphen"/>ment of Life.</p>
+                        </div>
+                        <div n="3" type="branch">
+                           <head>3. <hi>Petition.</hi>
+                           </head>
+                           <p>That is <hi>begging</hi> of God <hi>pardon</hi> for our Sins, the <hi>Aſſiſtance of his Grace to forſake them,</hi> and to lead <hi>new</hi> Lives; a <hi>ſupply of ſuch neceſſa<g ref="char:EOLhyphen"/>ries</hi> of <hi>this Life,</hi> as He in his Infi<g ref="char:EOLhyphen"/>nite Wiſdom ſees convenient for us, more than we for our ſelves, and <hi>comfortable Hopes</hi> of <hi>the things of a better Life,</hi> whenever we put off theſe Earthly Tabernacles.</p>
+                        </div>
+                        <div n="4" type="branch">
+                           <pb n="44" facs="tcp:206867:24"/>
+                           <head>4. <hi>Deprecation.</hi>
+                           </head>
+                           <p>Which is <hi>Praying</hi> to God to <hi>turn away</hi> from us,</p>
+                           <p n="1">1. The <hi>evil</hi> of <hi>Sin;</hi> and eſpecially to keep us from the Commiſſion of ſuch wickedneſſes as we are more addicted to, either by Nature, or worldly Conſideration, or evil Cu<g ref="char:EOLhyphen"/>ſtom.</p>
+                           <p n="2">2. The <hi>evil</hi> of <hi>Puniſhment,</hi> either <hi>Temporal,</hi> with Submiſſion to his Will; or <hi>Eternal,</hi> in the World to come. Such is that Form of <hi>De<g ref="char:EOLhyphen"/>precation</hi> in the Litany, <hi>from all Evil and Miſchief, from Sin, from the Crafts and Aſſaults of the Devil, from thy Wrath, and from everlaſt<g ref="char:EOLhyphen"/>ing Damnation, good Lord deliver us.</hi>
+                           </p>
+                        </div>
+                        <div n="5" type="branch">
+                           <head>5. <hi>Interceſſion.</hi>
+                           </head>
+                           <p>That muſt be for <hi>all Mankind;</hi> for the whole <hi>Catholick Church,</hi> and that <hi>Particular Church</hi> whereof we are Members; for the <hi>Nation</hi> wherein we live; for our <hi>King,</hi> for all the <hi>Royal Family;</hi> for all the <hi>Miniſters of State</hi> and <hi>Juſtice;</hi> for the <hi>
+                                 <g ref="char:V">Ʋ</g>niverſities</hi> and <hi>Schools;</hi> for our <hi>private Relations,</hi> our <hi>Friends</hi> and <hi>Benefactors;</hi> for all in <hi>Trouble</hi> and
+<pb n="45" facs="tcp:206867:24"/>
+                              <hi>Affliction;</hi> for our <hi>Enemies, and thoſe who diſpightfully uſe us.</hi> (Mat. 5.44.)</p>
+                        </div>
+                        <div n="6" type="branch">
+                           <head>6. <hi>Thanksgiving.</hi>
+                           </head>
+                           <p>This is <hi>Praiſing</hi> God for all his <hi>Mercies</hi> to us and to Mankind, <hi>in the Name of Chriſt, (Eph.</hi> 5.20.) Chriſtians are to praiſe him for <hi>ſending his Son and Holy Spirit;</hi> for the <hi>Preſervation</hi> of his Church; for all the <hi>Examples</hi> and <hi>Patterns</hi> of <hi>Pie<g ref="char:EOLhyphen"/>ty</hi> gone before us; for the <hi>means of Grace,</hi> his <hi>Word, Worſhip</hi> and <hi>Sacra<g ref="char:EOLhyphen"/>ments;</hi> for the particular bleſſings of <hi>Food, Rayment</hi> &amp;c. or the <hi>Preſervation</hi> of our <hi>Selves,</hi> or <hi>Relations,</hi> and the like. When we conſider ſuch <hi>Mer<g ref="char:EOLhyphen"/>cies</hi> it would well become us to ſay with Reverence and Devotion, <hi>Glo<g ref="char:EOLhyphen"/>ry be to our Creator, Redeemer, and Sanctifier, for ever and ever, Amen.</hi>
+                           </p>
+                           <p>This Duty of <hi>Praiſe</hi> is ſometimes to be performed by ſinging of <hi>Pſalms</hi> (as particularly <hi>Pſ.</hi> 4, 15, 23, 67, 100, 117, 128, 134.) and <hi>Hymns and Spiritual Songs,</hi> which render the Service very Solemn, and are a means to raiſe <hi>Devotion</hi> in a Private Family or Publick Aſſembly, (<hi>Eph.</hi> 5.19. <hi>Col.</hi> 3.16. <hi>James</hi> 5.13.) As for ſtated <hi>Publick Prayers</hi> in
+<pb n="46" facs="tcp:206867:25"/>
+                              <hi>Churches,</hi> and <hi>Private</hi> in <hi>Families,</hi> he who <hi>wilfully</hi> Abſents himſelf from either without <hi>juſt</hi> Cauſe, or <hi>neceſſary</hi> Impediment, looſes the Bleſſing of God's preſence, promiſ<g ref="char:EOLhyphen"/>ed <hi>where two or three are met together in his Name,</hi> (Mat. 18.20.)</p>
+                           <p>As for <hi>Secret Devotion,</hi> our Sa<g ref="char:EOLhyphen"/>viour himſelf directs it in theſe words, <hi>Thou, when thou prayeſt, enter into thy Cloſet, and when thou haſt ſhut the door, pray to thy Father which is in ſecret, and thy Father which ſeeth in ſe<g ref="char:EOLhyphen"/>cret ſhall reward thee openly,</hi> (Mat. 6.6.)</p>
+                           <p>This muſt be done at leaſt every <hi>Morning</hi> and <hi>Evening;</hi> it being not ſafe to let paſs the <hi>ſins,</hi> or to adven<g ref="char:EOLhyphen"/>ture the <hi>Perils</hi> of a <hi>Day</hi> or <hi>Night,</hi> without begging <hi>pardon</hi> for the one, and the <hi>Divine Protection</hi> to prevent the other.</p>
+                           <p>In this <hi>private Addreſs</hi> we muſt (as far as our Memories will ſerve us,) unboſom our ſelves, by making <hi>a full and free Confeſſion</hi> of all our ſins, and laying open all our wants, and asking ſuitable ſupplies; <hi>lifting up holy hands without wrath or doubt<g ref="char:EOLhyphen"/>ing,</hi> (1 <hi>Tim.</hi> 2.8.) And then (as
+<pb n="47" facs="tcp:206867:25"/>the Son of <hi>Syrach</hi> ſays) <hi>The Prayer of the humble pierceth the Clouds, and will not turn away till the High<g ref="char:EOLhyphen"/>est regard it,</hi> (Eccluſ. 35.17.)</p>
+                           <p n="8">8. God is <hi>Glorify'd</hi> by the wor<g ref="char:EOLhyphen"/>thy <hi>Receiving of the Sacrament of the Lord's Supper.</hi>
+                           </p>
+                           <p>This is an holy <hi>Rite</hi> of the <hi>New Covenant,</hi> agreeable to the <hi>Paſſover</hi> under the <hi>Old.</hi> In this <hi>Rite,</hi> by the outward and viſible ſigns of <hi>Bread broken,</hi> and <hi>Wine poured forth, (Mat.</hi> 26.26, 27, 28. <hi>Mark</hi> 14.22, 23, 24. <hi>Luke</hi> 22.19, 20.) is repre<g ref="char:EOLhyphen"/>ſented the <hi>Sacrifice</hi> of Chriſt upon the Croſs, in the Offering of which, his <hi>Fleſh</hi> was rent, and his <hi>Blood</hi> ſhed forth. (<hi>John</hi> 19.34.) And <hi>by eating of that Bread, and drinking of that Cup,</hi> Adminiſtred by Chriſt's <hi>Miniſters</hi> in his Church, according to Chriſt's own Inſtitution, is made a <hi>Feſtival Memorial</hi> of the Sacrifice of the Death of Chriſt, which is thus to be <hi>ſhewed forth till He cometh</hi> to Judge the World. (1 <hi>Cor.</hi> 11.23, 24, 25, 26.) To as many Baptized Perſons, as do this in ſuch manner as God is pleaſed to ac<g ref="char:EOLhyphen"/>count <hi>meet</hi> or <hi>worthy,</hi> thoſe out<g ref="char:EOLhyphen"/>ward
+<pb n="48" facs="tcp:206867:26"/>Signs and Actions are both <hi>means</hi> whereby we receive the <hi>Be<g ref="char:EOLhyphen"/>nefits</hi> of Chriſts Sacrifice, and alſo <hi>Pledges</hi> and <hi>Tokens</hi> from God, to aſſure us, that we <hi>verily</hi> and <hi>in<g ref="char:EOLhyphen"/>deed</hi> partake of them.</p>
+                           <p>To this <hi>Sacrament</hi> we are to come, becauſe Chriſt expreſly <hi>com<g ref="char:EOLhyphen"/>mands all to do it, (Mat.</hi> 26.26, 27. 1 <hi>Cor.</hi> 11.23, to 26.) and to par<g ref="char:EOLhyphen"/>take of the <hi>Holy Cup,</hi> as well as the <hi>Bread.</hi> And we cannot do leſs out of Love and Thankfulneſs to our Redeemer, than to make ſuch a <hi>Memorial of his Death.</hi> Here we <hi>renew</hi> our holy <hi>Vows,</hi> which we have need to do as oft as we can. Hereby alſo the <hi>Church</hi> is <hi>edified, the Bread which we break</hi> (1 Cor. 10.16.) being <hi>the Communion of the Body of Chriſt,</hi> and the <hi>Cup which we drink</hi> being the <hi>Commu<g ref="char:EOLhyphen"/>nion of the Blood of Chriſt,</hi> or a pub<g ref="char:EOLhyphen"/>lick Act of <hi>Chriſtian Fellowſhip,</hi> (1 <hi>Cor.</hi> 10.20, 21.) made by the Members of Chriſt's Church, <hi>in</hi> or <hi>for</hi> a <hi>Remembrance</hi> of his <hi>Paſſion,</hi> to which God never denies his Bleſſing, to thoſe who duly receive it, it being his own Ordinance.</p>
+                           <pb n="49" facs="tcp:206867:26"/>
+                           <p>
+                              <hi>Before</hi> a Man comes to this <hi>Sup<g ref="char:EOLhyphen"/>per,</hi> he muſt retire, and with Re<g ref="char:EOLhyphen"/>verence and Godly Fear, carefully <hi>examine himſelf,</hi> (1 <hi>Cor.</hi> 11.28.) and condemn himſelf for that which he finds amiſs, reſolving by God's Grace to do ſo no more. <hi>He is to judge himſelf, that he may not be judged,</hi> (1 <hi>Cor.</hi> 11.31.) And if he finds any thing good in himſelf, he is to Bleſs God for his Grace, and to deſire that he may grow in it, and <hi>perſevere</hi> in Holineſs to his Lives end. [See <hi>Repentance in Ta<g ref="char:EOLhyphen"/>ble of</hi> Contents.] He is alſo to pre<g ref="char:EOLhyphen"/>pare himſelf with a <hi>lively Faith</hi> in God's Mercy through Chriſt, and with a <hi>thankful Heart</hi> for the Bene<g ref="char:EOLhyphen"/>fit of Chriſt's Death, and with fer<g ref="char:EOLhyphen"/>vent <hi>Charity</hi> to all, (not excepting <hi>Enemies) (Mat.</hi> 5.23, 24.) and eſpe<g ref="char:EOLhyphen"/>cially to his Fellow-Communicants.</p>
+                           <p>
+                              <hi>When</hi> he <hi>comes there,</hi> he muſt with all Devout Affection exerciſe himſelf in the aforeſaid Acts of <hi>Reverence, Repentance,</hi> and <hi>Faith,</hi> and <hi>Thankfuln<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ſs,</hi> and <hi>Charity,</hi> and <hi>holy Reſolution.</hi>
+                           </p>
+                           <p>
+                              <hi>After</hi> the <hi>Sacrament,</hi> he is again to do the ſame, and to <hi>humble</hi>
+                              <pb n="50" facs="tcp:206867:27"/>himſelf for any Failures in that Duty, of which he may have ob<g ref="char:EOLhyphen"/>ſerved himſelf to have been guilty; and to <hi>bleſs</hi> God, who has vouchſa<g ref="char:EOLhyphen"/>fed to make him a partaker of that <hi>Ordinance;</hi> and to reſolve by God's help, having ſolemnly <hi>renewed</hi> his <hi>Baptiſmal Vow</hi> not to break it again.</p>
+                           <p>In Sum, God is honoured by a Chriſtian Life, <hi>Herein</hi> (ſaith Chriſt to his Diſciples) (<hi>John</hi> 15.8.) <hi>is my Father glorified, that ye bear much fruit.</hi>
+                           </p>
+                           <p>
+                              <hi>See, at the end of this Book, Pray<g ref="char:EOLhyphen"/>ers before,</hi> and <hi>at,</hi> and <hi>after</hi> the <hi>Sacrament.</hi>
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div n="5" type="duty">
+                     <head>5. <hi>To truſt and rely on God.</hi>
+                     </head>
+                     <p>It is the Duty of all good Chri<g ref="char:EOLhyphen"/>ſtians, to <hi>depend</hi> and <hi>rest on God</hi> for all the good things which con<g ref="char:EOLhyphen"/>cern their <hi>Souls and Bodies.</hi> either here or hereafter, with <hi>Content<g ref="char:EOLhyphen"/>ment</hi> and <hi>Reſignation of Mind.</hi>
+                     </p>
+                     <div n="1" type="part">
+                        <head>1. Their <hi>Souls.</hi>
+                        </head>
+                        <p>We may be ſaid to <hi>rely on God</hi> for the things which concern our <hi>Souls,</hi> by <hi>Faith, Hope,</hi> and <hi>Pati<g ref="char:EOLhyphen"/>ence</hi>
+                           <pb n="51" facs="tcp:206867:27"/>in well-doing; that is, by be<g ref="char:EOLhyphen"/>lieving that all which God hath ſaid is true, and that all which he hath promiſed, will be fulfilled; by <hi>depending</hi> upon Him without mur<g ref="char:EOLhyphen"/>muring, and with a firm expecta<g ref="char:EOLhyphen"/>tion, that <hi>all things ſhall work toge<g ref="char:EOLhyphen"/>ther for good to us, whileſt we love (Rom.</hi> 8.28.) and obey Him, and <hi>cast our care on Him,</hi> (1 <hi>Pet.</hi> 5.7.) But without this Love and Obedi<g ref="char:EOLhyphen"/>ence, <hi>Faith,</hi> and <hi>Hope,</hi> and <hi>Pati<g ref="char:EOLhyphen"/>ence</hi> are vain, and we ſhall never become Heirs of thoſe <hi>precious Pro<g ref="char:EOLhyphen"/>miſes,</hi> which, without the perform<g ref="char:EOLhyphen"/>ance of the Conditions required on our part, do not at all belong to us, (<hi>Heb.</hi> 5.9.)</p>
+                     </div>
+                     <div n="2" type="part">
+                        <head>2. Their <hi>Bodies.</hi>
+                        </head>
+                        <p>We are likewiſe to <hi>rely upon God</hi> for <hi>ſuch</hi> a meaſure of theſe outward things, as He in his great <hi>Wiſdom</hi> ſees fit for us; and ſo to learn the true Art of <hi>Contentedneſs.</hi>
+                        </p>
+                        <p>Would'ſt thou be greater then thou art? And does not thy Rank and Quality pleaſe thee?</p>
+                        <p n="1">1. Why ſhould Duſt and Aſhes be <hi>proud?</hi> Or why ſhould not God <hi>do what He will with that which is
+<pb n="52" facs="tcp:206867:28"/>his own? Friend, he does thee no wrong,</hi> (Mat. 20.13, 15.) The Clay may with more Juſtice <hi>quar<g ref="char:EOLhyphen"/>rel with the Potter, for being formed into a Veſſel of diſhonour, (Rom.</hi> 9.21.) Or the ſmall Rafter with the Maſter Carpenter, for not being made a main <hi>Poſt,</hi> or a <hi>Beam.</hi> Why ſhould not the great Architect of the Univerſe, have Skill enough to diſpoſe of ſo ſmall a Material as Man is? Or He who ſtretcht forth the Heavens, not know how to place a little lump of Earth?</p>
+                        <p n="2">2. Conſider that Men in <hi>great Offices</hi> ſtand in high and ſlippery Places, whileſt thoſe below them take aim, and ſhoot at them; and though they may miſs their Ho<g ref="char:EOLhyphen"/>nours and Preferments, they are ſure to hit their <hi>Failings</hi> and <hi>Infir<g ref="char:EOLhyphen"/>mities.</hi> Think alſo, that the <hi>Cares</hi> and <hi>Temptations</hi> of worldly Great<g ref="char:EOLhyphen"/>neſs are more than the <hi>Felicities</hi> of it. The very Thoughts of them made <hi>Saul</hi> the Son of <hi>Kiſh, hide himſelf among the ſtuff,</hi> (1 <hi>Sam.</hi> 10.22.) He had rather have been feeding his Father's Aſſes, than be
+<pb n="53" facs="tcp:206867:28"/>made King of the <hi>Iſraelites.</hi>
+                        </p>
+                        <p>Doſt <hi>thou covet Riches?</hi> Or, art thou troubled that others have a greater ſhare than thou of this Worlds Goods? Conſider,</p>
+                        <p n="1">1. That the World, and all that is therein, is wholly and ſolely at God's diſpoſe; <hi>The Fowls of the Air, the Fiſh of the Sea, the Beaſts of the Field, and the Cattle upon a Thou<g ref="char:EOLhyphen"/>ſand Hills, the Corn and the Wine, the Gold and the Silver, the Wooll and the Flax, (Pſal.</hi> 50.10, 11. <hi>Hoſ.</hi> 2.8, 9.) And a Beggar may as well contend with him who gives him a ſmall piece of Silver, to enlarge his Bounty, and make it a Talent of Gold, or a yearly Stipend, as a <hi>Creature</hi> diſpute about any thing with his <hi>Creator.</hi>
+                        </p>
+                        <p n="2">2. Thou ſetteſt thy Heart up<g ref="char:EOLhyphen"/>on great uncertainties, which <hi>the moth and ruſt doth corrupt, and Thieves break in and ſteal, (Mat.</hi> 6.19.) A Tempeſtuous Sea may ſink an able Merchant; an ill Sea<g ref="char:EOLhyphen"/>ſon eat up a skilful Husbandman; a neglected Brand or Candles-end, ſoon reduce to Aſhes Kings Pala<g ref="char:EOLhyphen"/>ces, and the ſtately Buildings of
+<pb n="54" facs="tcp:206867:29"/>
+                           <hi>proud</hi> Cities, with all their Maga<g ref="char:EOLhyphen"/>zines, Trophies, and Rich Furni<g ref="char:EOLhyphen"/>tures. Thus do <hi>Riches make them<g ref="char:EOLhyphen"/>ſelves wings, and fly away as Eagles,</hi> (Prov. 23.5.)</p>
+                        <p n="3">3. They are not able to help thee in the Day of thy Diſtreſs. How can any <hi>Treaſure</hi> eaſe the tor<g ref="char:EOLhyphen"/>turing Pains of the Body, or Grief ariſing from Shame or Diſgrace? And much leſs the Wounds of a <hi>Guilty Conſcience.</hi> The whole World cannot Comfort thee, when thy Soul is loſt, or purchaſe <hi>a drop of water to cool thy Tongue, when thou ſhalt be tormented in the Infernal Flames,</hi> (Luke 16.24.)</p>
+                        <p n="4">4. Plenty of <hi>Riches</hi> leads Men in<g ref="char:EOLhyphen"/>to a Thouſand Snares, and <hi>the love of Mony pierces</hi> them <hi>through with many ſorrows,</hi> (1 <hi>Tim.</hi> 6.9, 10.) And the ſtrict <hi>Accounts</hi> they muſt one Day give of their <hi>Stewardſhips,</hi> will make, (to thoſe that <hi>trust</hi> in them) their paſſage into Heaven more difficult, than that <hi>of a Camel through the Eye of a Needle,</hi> (Mat. 19.24.)</p>
+                        <p>
+                           <hi>Why art thou cast down, O weak</hi> Chriſtian? And <hi>why is thy Soul ſo
+<pb n="55" facs="tcp:206867:29"/>diſquieted within thee,</hi> becauſe the World Smiles not upon thee? <hi>Truſt ſtill in God,</hi> (Pſ. 42.5, 11.) If thou art of <hi>low degree,</hi> and of <hi>mean Parentage,</hi> be content with thy ſta<g ref="char:EOLhyphen"/>tion, and diligent in it. Remem<g ref="char:EOLhyphen"/>ber we are all the Sons of <hi>Adam,</hi> and that Vertuous Actions alone gave the firſt Riſe to Honourable Families, and that the Moſt High <hi>God hath regard to the mean and humble,</hi> (Luke 1.51, 52.)</p>
+                        <p>If thou art <hi>poor and needy,</hi> He who <hi>cloaths the Lilies,</hi> and <hi>feeds the Ravens,</hi> will provide for thee to day, and <hi>let to morrow take care for it ſelf, ſufficient unto the day is the evil thereof,</hi> (Mat. 6.34.) <hi>Although the Fig-tree ſhould not bloſſom, nor Fruit be in the Vine, the labour of the Olive fail, the Fields yield no Meat, the Flocks be cut off from the fold, and no Herd in the Stalls, yet will I rejoyce in the Lord,</hi> (Hab. 3.17, 18.)</p>
+                        <p>If thou laboureſt under <hi>Troubles, Croſſes,</hi> and <hi>Afflictions,</hi> or painful <hi>Diſeaſes</hi> or <hi>Diſtempers;</hi> Comider,</p>
+                        <p n="1">1. That this Life is a ſtate of <hi>Tryal,</hi> and not of <hi>Recompence. Man
+<pb n="56" facs="tcp:206867:30"/>is born to trouble, as the ſparks fly upwards,</hi> (Job 5.7.) And <hi>a heavy yoke is upon the Sons of</hi> Adam, <hi>from the day that they go out of the Womb, till the day that they return to the Mo<g ref="char:EOLhyphen"/>ther of all things,</hi> (Eccluſ. 40.1.)</p>
+                        <p n="2">2. Are not thy <hi>Troubles</hi> and <hi>Afflictions,</hi> or bodily <hi>Pains</hi> ſuited by God to thy <hi>Sins,</hi> to reclaim thee from ſome evil Courſe? Or, are they not ſent thee, as a <hi>tryal</hi> and <hi>exerciſe</hi> of thy Faith and Patience? Or, to <hi>wean</hi> thee from the World, and from ſetting up thy reſt here below?</p>
+                        <p n="3">3. Are they not Ten Thouſand times leſs than thou haſt deſerved? For when we conſider what we have merited, <hi>every mouth must be ſtopped, and the whole World muſt be<g ref="char:EOLhyphen"/>come guilty before God,</hi> (Rom. 3.19.)</p>
+                        <p n="4">4. Make up thy <hi>Accompts</hi> with God, and ſee if thy <hi>Receipts</hi> be not greater than thy <hi>Disburſements;</hi> and the <hi>Mercies</hi> thou enjoyeſt, more in number than the things thou wanteſt. But do not affright thy ſelf with Images of paſt Calamities, or dreſs up new ones in Imagina<g ref="char:EOLhyphen"/>tion and wandring Thoughts.</p>
+                        <p n="5">
+                           <pb n="57" facs="tcp:206867:30"/>5. God la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s upon none of his Children <hi>more than they are able to bear,</hi> neither does He <hi>willingly af<g ref="char:EOLhyphen"/>flict the Children of Men,</hi> (Lam. 3.33.) But <hi>Fools for their tranſgreſſions are afflicted,</hi> (Pſ. 107.17.) and when he ſees his time, and them fit for <hi>Mercies,</hi> he will put an end to all their <hi>Troubles.</hi>
+                        </p>
+                        <p>Art thou <hi>Oppreſſed</hi> or <hi>Perſecuted?</hi>
+                        </p>
+                        <p>If it be for <hi>doing ill,</hi> thou haſt no reaſon to complain; if for <hi>do<g ref="char:EOLhyphen"/>ing well, happy art thou,</hi> (1 <hi>Pet.</hi> 3.14.)</p>
+                        <p>In ſhort, inſtead of <hi>murmuring</hi> and <hi>complaining, thank God,</hi> (Job. 1.21.) who Correcteth his Children out of <hi>Love. (Heb.</hi> 12.6.) So <hi>ſhall theſe light Afflictions which are but for a moment, work for thee a far more exceeding and eternal weight of glory,</hi> (2 Cor. 4.17.) Neither are <hi>the ſufferings of this Life, worthy to be compared with the glory that ſhall be revealed,</hi> (Rom. 8.18.)</p>
+                        <p>Upon this whole Matter, argue with thy ſelf in the Words of <hi>Jere<g ref="char:EOLhyphen"/>miah,</hi> (Lam. 3.39, 40.) <hi>Wherefore doth a living Man complain, a Man
+<pb n="58" facs="tcp:206867:31"/>for the puniſhment of his ſins? Let us ſearch and try our ways, and turn a<g ref="char:EOLhyphen"/>gain unto the Lord.</hi>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+               <div n="2" type="section">
+                  <pb n="59" facs="tcp:206867:31"/>
+                  <head>CHAP. II.</head>
+                  <head type="sub">SECT. II.</head>
+                  <head type="sub">Duties to our ſelves.</head>
+                  <p>THeſe Duties are <hi>Conſideration, Reſolution, Humility, Diligence in our Callings, Chaſtity,</hi> and <hi>Mode<g ref="char:EOLhyphen"/>rateneſs.</hi>
+                  </p>
+                  <div n="1" type="duty">
+                     <head>1. <hi>Conſideration,</hi>
+                     </head>
+                     <p>Or a ſerious and careful <hi>weigh<g ref="char:EOLhyphen"/>ing</hi> in our Minds what <hi>we are,</hi> to what <hi>end we were born,</hi> what we <hi>think, ſpeak,</hi> or <hi>act.</hi> No <hi>Opinion</hi> is to be taken up, no <hi>Word</hi> to be ſpo<g ref="char:EOLhyphen"/>ken, no <hi>Action</hi> to be done at all ad<g ref="char:EOLhyphen"/>venture, and without being con<g ref="char:EOLhyphen"/>ſider'd. If any inconſiderate thing proves well, it is by chance, and no thanks are due to us. All our Thoughtfulneſs and Diſcretion is little enough to guide us. How ſtrangely then ſhall we err without Direction? (<hi>Pſal.</hi> 119.59. <hi>Eccleſ.</hi> 5.1. <hi>Iſa.</hi> 1.3. <hi>Hag.</hi> 1.5, 7.) How ſhall Men, who <hi>conſider not</hi> the
+<pb n="60" facs="tcp:206867:32"/>worth of their Souls, take care to ſave them? How ſhall thoſe who <hi>think not</hi> what their <hi>ways</hi> are, turn their Feet out of them, when they are evil? (<hi>Ezek.</hi> 18.14, 27, 28.)</p>
+                  </div>
+                  <div n="2" type="duty">
+                     <head>2. <hi>Reſolution.</hi>
+                     </head>
+                     <p>When we have conſidered well, it will be of uſe to us to <hi>reſolve</hi> to act accordingly. <hi>Reſolution</hi> giveth ſtrength to the Mind; and there is great need of it, in order to the paſſing ſafe thro' the changes and temptations of this preſent Life; and 'tis what good Men have ſtill been bent upon: <hi>As for me and my Houſe, we will ſerve the Lord,</hi> ſaid <hi>Joſhua, (Joſh.</hi> 24.15.) <hi>I have ſworn, and will perform it, that I will keep thy righteous Judgments,</hi> ſaid Holy <hi>David, (Pſ.</hi> 119.106.) The Primitive Chriſtians of <hi>Antioch,</hi> were exhort<g ref="char:EOLhyphen"/>ed, that <hi>with purpoſe of Heart, they would cleave unto the Lord,</hi> (Acts 11.23.) And if evil Men go through many difficulties by obſtinacy, why may not good Men do ſo by holy <hi>Re<g ref="char:EOLhyphen"/>ſolution?</hi> Such a <hi>Reſolution</hi> is agree<g ref="char:EOLhyphen"/>able
+<pb n="61" facs="tcp:206867:32"/>to the ſolemn <hi>Vow</hi> made in <hi>Bap<g ref="char:EOLhyphen"/>tiſm,</hi> to promote the Glory of God againſt the <hi>World, the Fleſh and the Devil.</hi>
+                     </p>
+                  </div>
+                  <div n="3" type="duty">
+                     <head>3. <hi>Humility.</hi>
+                     </head>
+                     <p>We muſt have a <hi>low</hi> Opinion of our ſelves, and be content if o<g ref="char:EOLhyphen"/>thers have the ſame; for our beſt faculties and ſervices are imper<g ref="char:EOLhyphen"/>fect; and if we are <hi>proud</hi> of our ſins, we <hi>glory</hi> in our <hi>ſhame, (Phil.</hi> 3.19.) If a <hi>proud man</hi> loves himſelf, he loves what God hates, for <hi>He</hi> is <hi>an abomination</hi> to God, (<hi>Prov.</hi> 16.5.) and <hi>a baughty ſpirit goes before a fall,</hi> (Prov. 16.18.) Beſides, it is a va<g ref="char:EOLhyphen"/>nity in great Perſons, to think they acquire reſpect or reverence by be<g ref="char:EOLhyphen"/>ing <hi>proud</hi> or <hi>haughty.</hi> If we are <hi>proud</hi> of the <hi>gifts of Nature,</hi> we are outdone in moſt of them, by ſome or other of the lower Creatures. If of our <hi>Birth</hi> and <hi>Parentage,</hi> we ſhould con<g ref="char:EOLhyphen"/>ſider that the <hi>Honours</hi> of our An<g ref="char:EOLhyphen"/>ceſtors can hardly be called ours, unleſs they be ſeconded by our ver<g ref="char:EOLhyphen"/>tuous and noble Actions. If of <hi>Riches,</hi> alas, they are not good to us, unleſs by a good uſe of them,
+<pb n="62" facs="tcp:206867:33"/>we make them ſuch. If laſtly, we are <hi>proud</hi> of the <hi>Gifts of Grace,</hi> they are none of our own, and of them St. <hi>Paul</hi> himſelf thought it <hi>not ex<g ref="char:EOLhyphen"/>pedient to glory,</hi> (2 <hi>Cor.</hi> 12.1.) Wherefore let us learn of our great Lord and Maſter, <hi>to be meek and lowly,</hi> (Mat, 11.29.) and quench the firſt riſings of <hi>pride</hi> and <hi>vain<g ref="char:EOLhyphen"/>glory</hi> in our hearts, with as much diligence, as we would a Fire that is already begun in our Houſes; and as our Saviour has promiſed, we <hi>ſhaell find rest to our Souls.</hi>
+                     </p>
+                  </div>
+                  <div n="4" type="duty">
+                     <head>4. <hi>Diligence in our Callings.</hi>
+                     </head>
+                     <p>There is no <hi>quality</hi> or <hi>condition</hi> from that of a King who ſits upon the Throne, to him who grinds at the Mill, that exempts Men from ſome kind of Calling, wherein they are bound to employ the Ta<g ref="char:EOLhyphen"/>lents God has given them; eſpe<g ref="char:EOLhyphen"/>cially thoſe who live upon their Labours; for they <hi>are not to eat, if they do not work,</hi> (2 Theſ. 3.10.) And <hi>Solomon</hi> ſends the ſluggard to the <hi>Ant, to learn to provide his Meat in the Summer, and his Food in the Harvest,</hi> (Prov. 6.6, 8.) aſſuring
+<pb n="63" facs="tcp:206867:33"/>him that otherwiſe, <hi>Poverty will come</hi> upon him <hi>as</hi> a Womans <hi>tra<g ref="char:EOLhyphen"/>vail, and want as an armed Man,</hi> (Prov. 6.11.)</p>
+                  </div>
+                  <div n="5" type="duty">
+                     <head>5. <hi>Chaſtity.</hi>
+                     </head>
+                     <p>As on the one hand <hi>Marriage is honourable, and the Bed undefiled,</hi> (Heb. 13.4.) and a Man may lawfully <hi>rejoyce in the Wife of his Youth,</hi> (Prov. 5.18.) So on the other we are to abſtain, not only from the groſſer acts of <hi>Adultery</hi> and <hi>Forni<g ref="char:EOLhyphen"/>cation,</hi> and all other ſuch filthineſs, but alſo from the <hi>lower degrees</hi> of Luſt, as <hi>coveting our Neighbours Wife,</hi> (Exod. 20.17.) <hi>Or looking on a Woman to lust after her,</hi> (Mat. 5.28.) As likewiſe <hi>chambering and wantonneſs,</hi> (Rom. 13.13.) <hi>and corrupt communication, (Eph.</hi> 4.29.) and entertaining in our Fancies, <hi>foul</hi> and <hi>filthy</hi> thoughts and deſires; all which are odious to God, who ſees the Heart, and loves none but the <hi>pure</hi> and <hi>ſpotleſs.</hi>
+                     </p>
+                     <p>Beſides, theſe <hi>ſins</hi> of the Fleſh ruin Mens Eſtates, and bring Di<g ref="char:EOLhyphen"/>ſeaſes both loathſom and painful, and ſo make the Committers of
+<pb n="64" facs="tcp:206867:34"/>them the <hi>Devils Martyrs.</hi> Where<g ref="char:EOLhyphen"/>fore <hi>beware of a Whoriſh Woman, luſt not after her beauty, nor let her take thee with her Eye-lids,</hi> (Prov. 6.24, 25.) <hi>For ſhe is a deep ditch, and a narrow pit,</hi> (Prov. 28.27.) <hi>And the young man void of understanding goes after her, as an Oxe to the ſlaughter, till a dart strikes through his Liver,</hi> (Prov. 7.22, 23.)</p>
+                     <p>But, which is worſt of all, if theſe Sins be not attended with Judgments here, as that of <hi>Sodom</hi> was with <hi>Fire</hi> and <hi>Brimſtone from Heaven,</hi> (Gen. 19.24.) or as the Inceſt of <hi>Amnon,</hi> (2 <hi>Sam.</hi> 13.28, 29.) Or the Sin of <hi>Zimri</hi> and <hi>Cozbi,</hi> (Num. 25.8.) Yet they are ſure to be rewarded with Hell-fire at laſt; For <hi>Whoremongers and Adulterers God will judge,</hi> (Heb. 13.4.) And whoever <hi>defiles his Body, which is the Temple of God, him will God de<g ref="char:EOLhyphen"/>stroy,</hi> (1 Cor. 3.17.) No ſuch Tranſgreſſors, without an extraor<g ref="char:EOLhyphen"/>dinary Repentance, <hi>ſhall inherit the Kingdom of God,</hi> (1 Cor. 6.9.) Chriſt has told us, that for every laſcivious and filthy <hi>Word</hi> and <hi>Thought</hi> unrepented of, <hi>we ſhall
+<pb n="65" facs="tcp:206867:34"/>give an account at the day of Judg<g ref="char:EOLhyphen"/>ment,</hi> (Mat. 12.36.)</p>
+                     <p>Wherefore let us ſtifle the very firſt motions to any of theſe Sins; for to parly with them, or enter<g ref="char:EOLhyphen"/>tain thoughts of them, is to cheriſh ſmall ſparks of the fire of <hi>Luſt</hi> in our Boſoms, which will at the laſt break out into a Flame and devour us.</p>
+                  </div>
+                  <div n="6" type="duty">
+                     <head>6. <hi>Moderateneſs.</hi> Of this there are 5 Branches, <hi>viz.</hi> In <hi>Meats, Drinks, Sleep, Recreations</hi> and <hi>Apparel.</hi> The Two Firſt go commonly un<g ref="char:EOLhyphen"/>der the Name of <hi>Temperance.</hi>
+                     </head>
+                     <div n="1" type="branch">
+                        <head>1. <hi>Of Temperance in</hi> Meats.</head>
+                        <p>Man is of ſuch a frame, that eating is neceſſary to preſerve life; but then it muſt be with <hi>moderation</hi> of which he himſelf is the beſt Judge: For the ſame proportion of Meat, may give one Man a Sur<g ref="char:EOLhyphen"/>feit, which will not ſatisfie ano<g ref="char:EOLhyphen"/>ther's Hunger; and the eating of that Food which may be neceſſa<g ref="char:EOLhyphen"/>ry for a ſick or weak Perſon, would be reputed wantonneſs and
+<pb n="66" facs="tcp:206867:35"/>luxury in one of a ſtronger Con<g ref="char:EOLhyphen"/>ſtitution. It is true in ſome ſenſe, as the Wiſe Man tells us, That <hi>it is good for a Man to eat, and to make his ſoul enjoy the Fruits of his labour, that he takes under the Sun, all the days of his life, which God gives him, for it is his Portion.</hi> (Eccleſ. 5.18.) But withal, he gives us this Cau<g ref="char:EOLhyphen"/>tion, not to eat more than is ſuffi<g ref="char:EOLhyphen"/>cient, <hi>leſt we be filled therewith, and vomit it up again,</hi> (Prov. 25.16.) And our Saviour commands us, to take heed of having our <hi>Hearts overcharged with ſurfeiting,</hi> (Luke 21.34.) And St. <hi>Paul, not to make Proviſion for the Fleſh to fulfil the Luſts thereof,</hi> (Rom. 13.14.) Whoever does ſo, abuſes the bounty of God, ſtarves <hi>Charity,</hi> that <hi>Luxury</hi> may abound, and expoſes his Body to manifold Dangers, and Diſtempers here, and to the pains of Hell here<g ref="char:EOLhyphen"/>after.</p>
+                     </div>
+                     <div n="2" type="branch">
+                        <head>2. <hi>Of Temperance in</hi> Drinks.</head>
+                        <p>As in <hi>Meats,</hi> ſo in <hi>Drinks,</hi> what<g ref="char:EOLhyphen"/>ſoever exceeds a <hi>moderate</hi> Refreſh<g ref="char:EOLhyphen"/>ment, tho' perhaps it makes no viſible change in a Man of a ſtron<g ref="char:EOLhyphen"/>ger
+<pb n="67" facs="tcp:206867:35"/>Brain, is a degree of <hi>Intem<g ref="char:EOLhyphen"/>perance,</hi> and therefore thoſe <hi>who are mighty to drink Wine, and riſe early in the Morning, to follow ſtrong drink, and continue till Night, till Wine en<g ref="char:EOLhyphen"/>flame them,</hi> (Iſa. 5.11.) have a dreadful Curſe denounced againſt them. Beſides the waſte and abuſe of God's good Creatures, (which would have relieved many thirſty Souls,) Such Men are the <hi>Devil's Factors,</hi> and make it matter of ſport and Recreation, to draw on others to the like exceſs, and then triumph when they ſee them fall. But <hi>woe unto him that puts his Bottle to his Neighbour's Mouth, and makes him drunken alſo,</hi> (Hab. 2.15.)</p>
+                        <p>Some there are that plead a ne<g ref="char:EOLhyphen"/>ceſſity, and others who think they make plauſible excuſes for this ſin of <hi>Drunkenneſs,</hi> namely, <hi>good Fel<g ref="char:EOLhyphen"/>lowſhip, maintaining of Friendſhip, chearing of their Spirits, and putting away of cares;</hi> but hereby they do but deceive themſelves. <hi>Who hath woe? who hath ſorrow? who has contentions? who has bablings? who has wounds without cauſe? they that tar<g ref="char:EOLhyphen"/>ry long at the Wine,</hi> (Prov. 23.29,
+<pb n="68" facs="tcp:206867:36"/>30.) And again, <hi>strong drink is ra<g ref="char:EOLhyphen"/>ging,</hi> (Pro. 20.1.) And how often have we ſeen Men of the mildeſt Diſpoſitions, go into thoſe <hi>drunken</hi> meetings, with the moſt Friendly Embraces, and anon, come out like chafed <hi>Lyons</hi> and <hi>Tygers,</hi> and ſheath their Swords in each others Bowels, making their Wives Wi<g ref="char:EOLhyphen"/>dows, and their Children Father<g ref="char:EOLhyphen"/>leſs? It were endleſs to reckon up the manifold miſchiefs, and dread<g ref="char:EOLhyphen"/>ful conſequencies of thoſe Extra<g ref="char:EOLhyphen"/>vagancies. But the Sinners them<g ref="char:EOLhyphen"/>ſelves will come to ſee their own folly, when thoſe that prey'd upon them, ſhall be the firſt that forſake them; when the Extortioners take poſſeſſion of their Patrimony; and <hi>Palſies, Megrims, Gouts, Dropſies,</hi> and other as dangerous, but more loathſom <hi>Diſeaſes</hi> torment their Bodies. And as for the <hi>putting away of cares,</hi> they may indeed for the preſent be <hi>drown'd</hi> in Wine and ſtrong Drink: but after a ſhort time, they will be ſure to riſe again and float like ſo many <hi>Dead Carcaſ<g ref="char:EOLhyphen"/>ſes,</hi> in more ugly and deformed ſhapes.</p>
+                        <pb n="69" facs="tcp:206867:36"/>
+                        <p>Others tell us <hi>Drinking</hi> is an expedient to make <hi>Bargains, and to do buſineſs,</hi> which is, in plain En<g ref="char:EOLhyphen"/>gliſh, to over-reach their Neigh<g ref="char:EOLhyphen"/>bours, by dealing with them, when <hi>Drink</hi> has driven out Reaſon: ſuch defrauding is contrary to St. <hi>Paul</hi>'s Commands, who requires us ra<g ref="char:EOLhyphen"/>ther to <hi>take wrong, and ſuffer our ſelves to be defrauded,</hi> (1 Cor. 6, 7,) than to do wrong, or to defraud.</p>
+                        <p>There is <hi>a third ſort of Wine<g ref="char:EOLhyphen"/>bibbers,</hi> who fear to be reproach'd for being <hi>ſtricter</hi> than their Neigh<g ref="char:EOLhyphen"/>bours, if they lead a ſober Life; but are not afraid of being diſ<g ref="char:EOLhyphen"/>owned by Chriſt in the Kingdom of his Father, for their <hi>Intemper<g ref="char:EOLhyphen"/>ance,</hi> and the many ſins that at<g ref="char:EOLhyphen"/>tend it.</p>
+                        <p>There are ſome that know not how otherwiſe <hi>to paſs away their time</hi> (their precious time) of which the Damned Souls in Hell would give the wealth of the whole World, were it in their power, to recall a few Days or Hours. Where<g ref="char:EOLhyphen"/>fore <hi>look not not on the Wine when it is red, and ſparkles in the Cup, for at laſt it biteth like a Serpent, and
+<pb n="70" facs="tcp:206867:37"/>ſtingeth like an Adder,</hi> (Prov. 23.31, 32.) And there is yet ſome thing more dreadful than any temporal Judgment; <hi>Drunkards ſhall never inherit the Kingdom of God,</hi> (1 Cor. 6.10.) And the end of theſe things <hi>is Death.</hi> (Rom, 6, 23.) <hi>and eternal Damnation,</hi> (Gal 5.21.)</p>
+                     </div>
+                     <div n="3" type="branch">
+                        <head>3. <hi>Of Moderatneſs in</hi> Sleep.</head>
+                        <p>This was ordained by God for <hi>refreſhing</hi> and <hi>ſupporting</hi> our frail Bodies, ſo as to enable us for ſuch Labours, as the duties of our Reli<g ref="char:EOLhyphen"/>gion, and the works of our Calling require of us; and what is beyond this is a ſort of <hi>Intemperance,</hi> which waſteth our precious <hi>time,</hi> and often conſumeth our <hi>Estates; for drow<g ref="char:EOLhyphen"/>ſineſs ſhall cloath a Man with Raggs,</hi> (Prov. 23.21,) It alſo filleth our bodies with Diſeaſes, making them as ſo many ſinks of ill Humours, and renders us uſeleſs both to <hi>God, our ſelves,</hi> and <hi>the World,</hi> and in effect <hi>dead whilſt we live.</hi>
+                        </p>
+                     </div>
+                     <div n="4" type="branch">
+                        <head>4. Of <hi>Moderateneſs</hi> in Recreations.</head>
+                        <p>Of theſe we are to take care, that they neither <hi>diſhonour</hi> God,
+<pb n="71" facs="tcp:206867:37"/>nor <hi>injure</hi> our Neighbour, nor take up <hi>too great</hi> a part of our time; as likewiſe that we do not ſet our <hi>Hearts</hi> upon them. And here let all thoſe who can ſpend whole days and nights in <hi>Cards,</hi> and <hi>Dice,</hi> and other <hi>idle Paſtimes,</hi> conſider whether they can ſatisfie them<g ref="char:EOLhyphen"/>ſelves, that God gave them ſo much time to ſo little purpoſe, and brought them into his Vine<g ref="char:EOLhyphen"/>yard to <hi>ſtand idle</hi> in it, (<hi>Mat.</hi> 20.6.)</p>
+                     </div>
+                     <div n="5" type="branch">
+                        <head>5. Of <hi>Moderateneſs,</hi> in Apparel.</head>
+                        <p>The firſt occaſion of Cloathing was the covering the <hi>Nakedneſs</hi> of <hi>Adam</hi> and <hi>Eve,</hi> after ſin had brought in ſhame, and therefore we have ve<g ref="char:EOLhyphen"/>ry little reaſon to be <hi>proud</hi> of ſuch Ornaments. Another end was to <hi>fence</hi> our Bodies from cold, and <hi>preſerve</hi> our Health; and a third to <hi>diſtinguiſh</hi> Sexes, which has been obſerved by all Nations; and God himſelf expreſly provided for it among the <hi>Jews. The Woman ſhall not wear that which pertaineth unto a Man, neither ſhall a Man put
+<pb n="72" facs="tcp:206867:38"/>on a Woman's Garment, for all that do ſo are abomination unto the Lord,</hi> (<hi>Deut.</hi> 22.5.) Now, for as much as all Kingdoms and Countreys, for the moſt part, have <hi>diſtinct</hi> Habits, and thoſe commonly alter every Age, and amongſt us almoſt every Year; it is impoſſible to give particular Rules about them. Only ſure we are, that <hi>immodest</hi> Apparel, the <hi>Attire</hi> of Harlots, a <hi>Phantaſtical</hi> Dreſs, <hi>Superfluity</hi> of Ornament, Cloathing <hi>above</hi> our Eſtates, De<g ref="char:EOLhyphen"/>gree, or Calling, and <hi>unagree<g ref="char:EOLhyphen"/>able</hi> to our Age and Sex, is that which becomes not Chriſtian Men and Women.</p>
+                     </div>
+                  </div>
+               </div>
+               <div n="3" type="section">
+                  <pb n="73" facs="tcp:206867:38"/>
+                  <head>CHAP. II.</head>
+                  <head type="sub">SECT. III. <hi>Duties towards our Neigh<g ref="char:EOLhyphen"/>bours.</hi>
+                  </head>
+                  <p>WE are commanded to <hi>love our Neighbours as our ſelves:</hi> (Mat. 22.39. <hi>Jam.</hi> 2.8.) and we are to eſteem <hi>every Man</hi> our <hi>Neighbour,</hi> (<hi>Luke</hi> 10.29, 36, 37.)</p>
+                  <p>
+                     <hi>Duties to our Neighbours,</hi> are,</p>
+                  <p n="1">1. To ſpeak <hi>truth</hi> every Man <hi>to</hi> and <hi>of</hi> his <hi>Neighbour;</hi> (<hi>Eph.</hi> 4.25.) <hi>Lying</hi> is of the Devil, (<hi>John</hi> 8.44.) and it leads to him. And though a <hi>Lie</hi> may be hid from Man, God knoweth the Heart, and <hi>Liars</hi> muſt expect their part <hi>in the burning Lake,</hi> (<hi>Rev.</hi> 21.8.) Eſpecially ſuch as bear <hi>falſe Witneſs</hi> againſt others, hurting thereby their <hi>Bo<g ref="char:EOLhyphen"/>dy, Goods</hi> and <hi>Name.</hi> Every
+<pb n="74" facs="tcp:206867:39"/>Member of a Society has a right to <hi>Truth,</hi> and by the mutual Truſt and Confidence of the Members It is preſerved: But when <hi>Truth</hi> and <hi>Faith</hi> ceaſe, it is diſſolved. There<g ref="char:EOLhyphen"/>fore he that will take a Serpent, let him take a <hi>Liar</hi> into his Bo<g ref="char:EOLhyphen"/>ſom.</p>
+                  <p n="2">2. <hi>To be Juſt in all our Dealings: Doing by others, as we would they ſhould do by us,</hi> (Mat. 7.12.) This Rule, well obſerv'd, would main<g ref="char:EOLhyphen"/>tain <hi>Property</hi> and <hi>Peace</hi> in the World, without which, <hi>Families, Cities, Kingdoms</hi> are deſtroy'd, and Men live in a ſtate of Fear and Violence, and <hi>provoke</hi> the <hi>Righteous</hi> God, who governs by methods of <hi>Justice</hi> and <hi>Judgment,</hi> (<hi>Gen.</hi> 18.19. 2 <hi>Sam.</hi> 23.3.) and poureth <hi>bleſſings upon the head of the Juſt,</hi> (Prov. 10.6.) He that will be <hi>ſuch</hi> a juſt Man, muſt root <hi>Cove<g ref="char:EOLhyphen"/>touſneſs</hi> out of his Heart. He that keeps the Command, <hi>Thou ſhalt not Covet,</hi> will not break that, <hi>Thou ſhalt not Steal.</hi>
+                  </p>
+                  <p n="3">
+                     <pb n="75" facs="tcp:206867:39"/>3. To be <hi>Courteous</hi> in our Be<g ref="char:EOLhyphen"/>haviour, and in <hi>Honour to prefer one another,</hi> (<hi>Rom.</hi> 12.10.) and to be <hi>eaſie to be entreated,</hi> (<hi>Jam.</hi> 3.17.) He that thinks not <hi>too high<g ref="char:EOLhyphen"/>ly</hi> of himſelf will be <hi>affable</hi> to o<g ref="char:EOLhyphen"/>thers.</p>
+                  <p n="4">4. To be <hi>Patient,</hi> and <hi>Gentle,</hi> and <hi>Peaceable, (Rom.</hi> 12.18.) to<g ref="char:EOLhyphen"/>wards all Men, and to let all <hi>Ri<g ref="char:EOLhyphen"/>gour</hi> and <hi>Bitterneſs, Wrath and Cla<g ref="char:EOLhyphen"/>mour be put away from us,</hi> (<hi>Eph.</hi> 4.31.) Such a <hi>churliſh</hi> Temper, and ſuch <hi>boiſterous</hi> Paſſions, as govern'd in <hi>Nabal,</hi> will render us very un<g ref="char:EOLhyphen"/>eaſie, both to our ſelves, and all who Converſe with us. If you are <hi>angry,</hi> though not <hi>without cauſe,</hi> (Mat. 5.22.) <hi>Sin not; let not the Sun go down upon your wrath,</hi> (Eph. 4.26.)</p>
+                  <p n="5">5. To ſet a juſt <hi>value</hi> and <hi>eſteem</hi> upon the <hi>Gifts</hi> and <hi>Parts of others,</hi> neither <hi>envying</hi> nor <hi>detracting</hi> from them, nor ſeeking by any ways whatever to <hi>eclipſe</hi> them; <hi>but in lowlineſs of Mind, eſteeming others better than themſelves,</hi> (Phil. 2.3.)</p>
+                  <p n="6">
+                     <pb n="76" facs="tcp:206867:40"/>6. To <hi>promote,</hi> to our power, and in our ſtations, <hi>the ſalſation of others,</hi> (Jam. 5.19, 20.) This is the greateſt of <hi>Charities,</hi> and it is done ſeveral ways. As, by <hi>recom<g ref="char:EOLhyphen"/>mending</hi> them to God by fervent <hi>Prayer,</hi> by <hi>ſetting</hi> them a pat<g ref="char:EOLhyphen"/>tern of a <hi>holy Life;</hi> by <hi>endea<g ref="char:EOLhyphen"/>vouring</hi> their <hi>Inſtruction,</hi> by our ſelves or others, in the things that belong to their <hi>Eternal</hi> Peace; by <hi>lending</hi> or <hi>giving</hi> them <hi>Books</hi> of <hi>Piety;</hi> by <hi>reading</hi> to them, as we have opportunity, the <hi>Scrip<g ref="char:EOLhyphen"/>tures,</hi> or other <hi>Pious</hi> Books, if they either cannot read at all, or do it very imperfectly, or are diſabled by Infirmity; by <hi>putting</hi> them in mind of the <hi>Duties</hi> they omit, particularly of their <hi>neglecting</hi> the <hi>Lord's day,</hi> and the holy <hi>Com<g ref="char:EOLhyphen"/>munion;</hi> by <hi>encouraging</hi> them when they <hi>do well;</hi> by <hi>ſpeaking well</hi> of them, and <hi>comfortably</hi> to them; by <hi>ſhewing</hi> them the true kindneſs of <hi>Diſcreet Admonition,</hi> and Brotherly <hi>Reproof, (Levit.</hi> 19.17. <hi>Pſal.</hi> 141.5. <hi>Mat.</hi> 18.15, 16.) by <hi>aſſisting</hi> them in healing the
+<pb n="77" facs="tcp:206867:40"/>
+                     <hi>Wounds</hi> of their <hi>Conſcience.</hi> He can be no Friend to his <hi>own</hi> Soul, who is none to his <hi>Neighbours.</hi>
+                  </p>
+                  <p n="7">7. To <hi>Aſſiſt</hi> thoſe whom we ſee or know to be in any worldly <hi>Diſtreſs,</hi> either by our <hi>Advice, Intereſt,</hi> or <hi>Pur<g ref="char:EOLhyphen"/>ſes,</hi> as we are able, and as is proper for our <hi>circumſtances,</hi> and that with a <hi>chearful</hi> Countenance and comfor<g ref="char:EOLhyphen"/>table Words. <hi>For whoſo hath this Worlds Goods, and ſeeth his Brother have need, and ſhutteth up his Bowels of Compaſſion from him, how dwelleth the Love of God in him?</hi> (1 John 3.17.) A ſad thing it is to obſerve how prodigal ſome Men and Wo<g ref="char:EOLhyphen"/>men are in Rich Cloaths and Sumptuous Tables, and yet pro<g ref="char:EOLhyphen"/>vide not one Garment for the Wi<g ref="char:EOLhyphen"/>dow and Fatherleſs, nor a few Crumbs for a poor <hi>Lazarus.</hi>
+                  </p>
+                  <p n="8">8. To pay <hi>thankful Acknowledg<g ref="char:EOLhyphen"/>ments</hi> to all our <hi>Benefactors,</hi> of what kind ſoever; and, as we have Opportunities, to make ſuitable Returns: And not, as the manner of ſome is, to repay Favours and Kindneſſes with Ingratitude and Injuries.</p>
+                  <p n="9">
+                     <pb n="78" facs="tcp:206867:41"/>9. Thoſe who have the <hi>Supream Authority</hi> are to look upon them<g ref="char:EOLhyphen"/>ſelves as God's Vicegerents. They are not, on the one ſide, to be <hi>a terror to good Works,</hi> nor, on the other, <hi>to bear the Sword in vain,</hi> but <hi>as the Ministers of God, to exe<g ref="char:EOLhyphen"/>cute wrath upon them that do evil, (Rom.</hi> 13.4.) And to theſe muſt <hi>every Soul</hi> within their Dominions <hi>be ſubject,</hi> in all things lawful, (<hi>Mat.</hi> 22.21. <hi>Acts</hi> 4.19. <hi>Rom.</hi> 13.1.) and whoever is not, <hi>reſiſts the Or<g ref="char:EOLhyphen"/>dinance of God, (Rom.</hi> 13.2.) We muſt likewiſe <hi>pay them Tribute,</hi> (Rom. 13.7.) and <hi>pray for them,</hi> and all who are deputed by them, <hi>that</hi> ſo <hi>we may lead a quiet and peaceable Life, in all Godlineſs and Honeſty,</hi> (1 <hi>Tim.</hi> 2.2.)</p>
+                  <p n="10">10. Thoſe who are <hi>Spiritual Fa<g ref="char:EOLhyphen"/>thers in Christ,</hi> are to take Care of all the Souls committed to their Charge. <hi>To preach the Word, to be inſtant in ſeaſon and out of ſeaſon, to reprove, rebuke, and exhort with all long ſuffering,</hi> (2 Tim. 4.2.) And to this end, <hi>a Biſhop muſt be
+<pb n="79" facs="tcp:206867:41"/>blameleſs, vigilant, ſober, of good behaviour, given to hoſpitality, apt to teach, not given to wine, no ſtri<g ref="char:EOLhyphen"/>ker, nor greedy of filthy lucre, and one who rules well his own houſe,</hi> (1 Tim. 3.2, 3, 4.) And this Cha<g ref="char:EOLhyphen"/>racter every other <hi>Chriſtian Mini<g ref="char:EOLhyphen"/>ſter</hi> is to endeavour to make good, with reſpect to the Circum<g ref="char:EOLhyphen"/>ſtances in which he is.</p>
+                  <p>Thoſe that are <hi>under them, muſt esteem them very highly in love for their work ſake,</hi> (1 Theſ. 5.12, 13.) and look upon them <hi>as thoſe who watch for their Souls,</hi> and muſt <hi>give an account</hi> of them, (<hi>Heb.</hi> 13.17.) And, laſtly, they muſt <hi>pray for them, that utterance may be given them,</hi> and <hi>that they may open their Mouths boldly to make known the Myſteries of the Goſpel, (Eph.</hi> 6.19. <hi>Col.</hi> 4.3.)</p>
+                  <p n="11">11. Thoſe who <hi>are natural Pa<g ref="char:EOLhyphen"/>rents,</hi> are early to bring their Children to <hi>Baptiſm,</hi> and after<g ref="char:EOLhyphen"/>wards, as they grow up, to <hi>Con<g ref="char:EOLhyphen"/>firmation,</hi> and the <hi>holy Communion.</hi> To ſuch good ends, it is their <hi>Du<g ref="char:EOLhyphen"/>ty,</hi> to inſtil into their Minds be<g ref="char:EOLhyphen"/>times
+<pb n="80" facs="tcp:206867:42"/>the <hi>Principles</hi> of <hi>Christian Religion,</hi> and to keep them to their Duty, ſometimes by <hi>Rewards</hi> and <hi>Encouragements,</hi> ſometimes by <hi>mo<g ref="char:EOLhyphen"/>derate Correction</hi> and <hi>Puniſhment,</hi> but always by their own <hi>good Ex<g ref="char:EOLhyphen"/>amples;</hi> and never by <hi>reviling</hi> Lan<g ref="char:EOLhyphen"/>guage, or other <hi>unlawful</hi> Severities. Thoſe of <hi>Noble</hi> Families, and <hi>plen<g ref="char:EOLhyphen"/>tiful</hi> Fortunes, are to ſpare no ſort of <hi>Education,</hi> that may qualifie their Children, to ſerve either <hi>Church</hi> or <hi>State,</hi> in places proper for them; for as much as their <hi>Examples, In<g ref="char:EOLhyphen"/>tereſt, Reputation,</hi> and <hi>Revenues,</hi> will have very great influence up<g ref="char:EOLhyphen"/>on their dependants and inferiors. And thoſe of a <hi>lower rank</hi> are to take care of putting their Child<g ref="char:EOLhyphen"/>ren in ſome way of getting an ho<g ref="char:EOLhyphen"/>neſt livelihood, and when they are fit for a wedded life, to <hi>Marry them in the Lord,</hi> (1 Cor. 7.39.) and give them all the reaſonable ſupplies they can, and to arm them with all neceſſary cautions and in<g ref="char:EOLhyphen"/>ſtructions, but never to <hi>force</hi> them to marry ſuch as they abhor and loath; leſt the Soul of a Child thus grieved and put into a ſtate
+<pb n="81" facs="tcp:206867:42"/>of Temptation, be one day <hi>required at their hands,</hi> (Ezek. 3.18.)</p>
+                  <p>
+                     <hi>Children</hi> are likewiſe command<g ref="char:EOLhyphen"/>ed by God <hi>to love, honour, and obey, their Parents;</hi> as likewiſe to <hi>pray</hi> for them; to <hi>administer</hi> to their <hi>wants</hi> when they are able, and to <hi>cover</hi> all their <hi>Infirmities; for the Eye that mocks his Father, or deſpi<g ref="char:EOLhyphen"/>ſeth to obey his Mother, the Ravens of the Valleys ſhall pick it out, and the young Eagles ſhall eat it,</hi> (Prov. 30.17.) And no unkindneſs of <hi>Pa<g ref="char:EOLhyphen"/>rents</hi> can ever exempt or diſcharge <hi>Children</hi> from their Duties. And laſtly, they are to be kind and lo<g ref="char:EOLhyphen"/>ving one to another, as <hi>Joſeph</hi> to his Brethren, (<hi>Gen.</hi> 50.21.)</p>
+                  <p n="12">12. Thoſe who are <hi>Husbands</hi> and <hi>Wives,</hi> may do well to peruſe (<hi>Epheſ.</hi> 5. <hi>Coloſs.</hi> 3. 1 <hi>Tim.</hi> 3. and 1 <hi>Pet.</hi> 3.) and frequently to read o<g ref="char:EOLhyphen"/>ver their <hi>Matrimonial Vows,</hi> and conſider how they have <hi>plighted their troth each to other, and ſolemnly taken one another for better for worſe, for richer for poorer, in ſickneſs and in health, to love and to cheriſh,</hi> (the Woman adds, <hi>to Obey) till death them do part; and forſaking all others,
+<pb n="82" facs="tcp:206867:43"/>to keep only to one another ſo long as they both ſhall live.</hi> Theſe are not Words of courſe, but Engagements in the <hi>ſpecial</hi> preſence of God, and before a Chriſtian Congregation, and oblige in <hi>Law</hi> and <hi>Conſcience;</hi> and where ſuch Vows are ſet at nought, the bleſſing of God reſteth not upon that Houſhold.</p>
+                  <p n="13">13. As to the Duty of <hi>Friends,</hi> we muſt in the firſt place, be very careful in chooſing them, and ha<g ref="char:EOLhyphen"/>ving found <hi>one of a Thouſand,</hi> we muſt be true to their <hi>Souls,</hi> their <hi>Secrets</hi> and <hi>Truſts,</hi> their <hi>Reputations</hi> and their <hi>Intereſts,</hi> all the days of our Lives; and not change them for the <hi>Gold of Ophir, (Eccluſ.</hi> 7.18.) Who can read and not abhor the Character of a Falſe Friend given (in <hi>Eccluſ.</hi> 6.10, 11, 12.) <hi>There is a Friend that is a Companion at thy Table, but will not continue in the day of thy Affliction; in thy proſperity he will be as thy ſelf; when thou art brought low, he will hide himſelf.</hi> And here above all others, Men in eminent Places, to whom Infe<g ref="char:EOLhyphen"/>riors ſpeak rather that which they think will pleaſe them, than what
+<pb n="83" facs="tcp:206867:43"/>they know to be true and fit, ought to make this a part of their <hi>Lita<g ref="char:EOLhyphen"/>nies, from Flatterers, and falſe Friends, good Lord deliver us.</hi>
+                  </p>
+                  <p n="14">14. Thoſe who are <hi>Debtors</hi> and <hi>Creditors:</hi> The firſt muſt uſe their <hi>beſt endeavours</hi> to pay what they really and truly owe; and the laſt muſt have a care of <hi>taking their Fellow Servants by the Throat,</hi> for fear leſt <hi>what meaſure they mete out to others, the ſame may be meted to them again,</hi> by their great Lord and Maſter, (<hi>Mat.</hi> 18.35.)</p>
+                  <p n="15">15. Thoſe that are <hi>Maſters,</hi> muſt <hi>rule their own Spirits</hi> firſt, that they may the better govern their <hi>Ser<g ref="char:EOLhyphen"/>vants, (Prov.</hi> 16.32. <hi>Eccluſ.</hi> 4.30) they muſt not provoke them <hi>to curſe, (Eccleſ.</hi> 7.21.) but with gen<g ref="char:EOLhyphen"/>tleneſs <hi>admoniſh</hi> and <hi>reprove</hi> them, unleſs the heinouſneſs of the fault requires that they <hi>rebuke them ſharply,</hi> (Tit. 1.12, 13.) They are likewiſe to give them a <hi>good Ex<g ref="char:EOLhyphen"/>ample,</hi> as likewiſe to provide for their <hi>Suſtenance</hi> in <hi>Sickneſs,</hi> and in <hi>Health,</hi> and <hi>justly</hi> pay them their Wages, always <hi>remembring that their
+<pb n="84" facs="tcp:206867:44"/>Maſter is in Heaven.</hi> (Eph. 6.9.) Which if they do, they will alſo take care of their <hi>Souls,</hi> and ſo order the Affairs of their Houſhold, that they may have ſome time to <hi>pray</hi> and <hi>read</hi> in private, and to come to the <hi>Houſe</hi> and <hi>Table</hi> of God.</p>
+                  <p>On the other hand, <hi>Servants</hi> muſt <hi>obey</hi> their <hi>Maſters</hi> in all their juſt Commands, <hi>not with Eye-Ser<g ref="char:EOLhyphen"/>vice, but in ſingleneſs of heart, as unto Chriſt,</hi> (Eph. 6.5, 6.) They muſt not uſe any <hi>Deceit,</hi> or embezzel their <hi>Goods,</hi> or betray their <hi>Truſts,</hi> or carry <hi>Tales</hi> abroad, or be <hi>ſloth<g ref="char:EOLhyphen"/>ful</hi> in their buſineſs, or occaſion <hi>Quarrels</hi> in the Family, or take <hi>Gifts</hi> where they ſhould not, (2 <hi>Kings</hi> 5.20.) Or excuſe a Fault with a <hi>Lye,</hi> (Pſal. 101.7.) which makes the fault much the greater.</p>
+                  <p>Theſe are things which are <hi>com<g ref="char:EOLhyphen"/>manded</hi> us in reference to our <hi>Neighbours;</hi> there are other things which we are <hi>forbid:</hi> As,</p>
+                  <p n="1">1. <hi>Not to hurt their Souls,</hi> by af<g ref="char:EOLhyphen"/>flicting them, or <hi>breaking their Spirits,</hi> (Prov. 15.13.) no not ſo much as to laugh at, and ſcorn a
+<pb n="85" facs="tcp:206867:44"/>poor Man <hi>in the bitterneſs of his Soul,</hi> (Ecclu. 4.6.) nor by giving him <hi>evil</hi> counſel, as <hi>Job</hi>'s Wife did to her Husband, (<hi>Job</hi> 2.9.) to <hi>curſe God and die;</hi> or as <hi>Achitophel</hi> to <hi>Ab<g ref="char:EOLhyphen"/>ſalom, to go up to his Father's Con<g ref="char:EOLhyphen"/>cubines,</hi> (2 <hi>Sam.</hi> 16.21.) nor by <hi>enticing</hi> him to any evil courſes, or <hi>encouraging</hi> and <hi>helping</hi> him in them, (<hi>Prov.</hi> 1.10.) as <hi>Jonadab</hi> did <hi>Amnon</hi> in his abominable In<g ref="char:EOLhyphen"/>ceſt, (2 <hi>Sam.</hi> 13.5.)</p>
+                  <p n="2">2. <hi>Not to hurt their Bodies,</hi> either by <hi>open Murther,</hi> as <hi>Cain</hi> kill'd <hi>Abel, (Gen.</hi> 4.8.) or <hi>ſecret,</hi> as <hi>David</hi> kill'd <hi>
+                        <g ref="char:V">Ʋ</g>riah,</hi> to get his Wife, (2 <hi>Sam.</hi> 11.17.) or as <hi>Jezebel</hi> kill'd <hi>Naboth,</hi> (1 <hi>Kin.</hi> 21.13.) to poſſeſs his Vine<g ref="char:EOLhyphen"/>yard; or as a Strumpet <hi>murders</hi> her Child, to cover her Shame; which <hi>Murder</hi> ſeldom goes unpu<g ref="char:EOLhyphen"/>niſh'd, even here in this World. God will judge them for ſuch bloody and uncharitable Wicked<g ref="char:EOLhyphen"/>neſſes, (<hi>Gen.</hi> 9.5, 6.) <hi>He that ſheddeth Man's Blood, by Man ſhall his Blood be ſhed;</hi> namely, by the Magiſtrate, who is the Avenger in God's ſtead.</p>
+                  <pb n="86" facs="tcp:206867:45"/>
+                  <p>There are other ſorts relating to this, as <hi>maiming a poor Man,</hi> whoſe <hi>Bread is his Life.</hi> (Eccluſ. 34.21.) for which he ought to have ample <hi>Reſtitution</hi> and <hi>Satisfaction.</hi> As likewiſe <hi>murdering</hi> our <hi>Neigh<g ref="char:EOLhyphen"/>bours</hi> in their <hi>Reputation</hi> and <hi>good Name,</hi> which to moſt is dearer than their Lives. Therefore <hi>Whiſ<g ref="char:EOLhyphen"/>perers</hi> and <hi>Backbiters</hi> are joyn'd with <hi>Murderers, (Rom.</hi> 1.29, 30.) as <hi>worthy</hi> of Death, <hi>v.</hi> 32.</p>
+                  <p n="3">3. We are <hi>not to hurt our Neigh<g ref="char:EOLhyphen"/>bour,</hi> as to his <hi>Wife,</hi> or his <hi>Estate.</hi> Not his <hi>Wife,</hi> his neareſt Friend, by <hi>corrupting</hi> or <hi>enticing</hi> her to a ſtrange Bed, and ſo robbing her of her Innocency, and him of her love. This ſtirreth up in the Hus<g ref="char:EOLhyphen"/>band <hi>raging Jealouſie,</hi> (Prov. 6.34.) and oft-times ends in moſt deſpe<g ref="char:EOLhyphen"/>rate Quarrels, and becomes fatal to whole Families. Again, we are not to <hi>hurt</hi> him in his <hi>Eſtate;</hi> (tho' he be <hi>an Enemy, if his Ox go aſtray, we must bring it back; or if his Aſs lay under his burden, we muſt help him;</hi>) (Exod. 23.4, 5.) much leſs to <hi>ſteal</hi> from him his Cattle, Money
+<pb n="87" facs="tcp:206867:45"/>or Goods, or to rob his Houſes or Lands; by <hi>Griping, <g ref="char:V">Ʋ</g>ſury,</hi> or <hi>Op<g ref="char:EOLhyphen"/>preſſion;</hi> eſpecially, not to <hi>enter into the Fields of the Fatherleſs,</hi> (Prov. 23.10.) nor to <hi>devour Widows Houſes. (Mat.</hi> 23.14.) and here let Men take heed and beware, as they will an<g ref="char:EOLhyphen"/>ſwer it to the Judge of the World; <hi>Princes</hi> and <hi>great Men</hi> of abuſing their <hi>Power; Learned</hi> and <hi>Wiſe Men</hi> their <hi>Knowledge</hi> and <hi>Skill; Judges</hi> and <hi>Officers</hi> of Juſtice their <hi>Truſt,</hi> for the perverting of <hi>Judgment,</hi> (See <hi>Wiſd.</hi> 6.1, to 7.)</p>
+                  <p>Laſtly, we muſt not <hi>cheat,</hi> or <hi>over<g ref="char:EOLhyphen"/>reach</hi> our Neighbour in matters of <hi>truſt, traffick,</hi> and <hi>bargaining.</hi> And here let all <hi>Guardians, Stewards,</hi> and other <hi>Servants,</hi> to whom any buſi<g ref="char:EOLhyphen"/>neſs of <hi>truſt</hi> is committed; all <hi>Traders</hi> and <hi>Dealers,</hi> and even <hi>Gameſters,</hi> ſtrictly examine their own Conſciences; and where any have wronged others, let them fol<g ref="char:EOLhyphen"/>low the Example of <hi>Zacchaeus,</hi> (Luke 9.8.) and make quick and ample <hi>restitution,</hi> to the beſt of their a<g ref="char:EOLhyphen"/>bilities and powers. The ſin is not remitted, where that which was
+<pb n="88" facs="tcp:206867:46"/>unjuſtly gotten, is not, to our power, reſtor'd.</p>
+                  <p n="4">4. Not <hi>to revenge Injuries;</hi> a Man being no proper <hi>Judge</hi> and <hi>Executioner</hi> in his own cauſe. <hi>Ven<g ref="char:EOLhyphen"/>geance belongs to God,</hi> (Rom. 12.19.) and his <hi>Vicegerents,</hi> (Rom. 13.4.) Chriſt has taught us to forgive, as we hope to be forgiven; for <hi>if we forgive not Men their Treſpaſſes, neither will our Heavenly Father forgive us our treſpaſſes,</hi> (Mat. 6.14, 15.)</p>
+                  <p>
+                     <hi>If</hi> a Man <hi>knows theſe things, happy is he, if he does them,</hi> (Joh. 13.17.) <hi>without Hypocriſie,</hi> (Phil. 1.10.) <hi>Luke<g ref="char:EOLhyphen"/>warmneſs and Partiality, (Pſal</hi> 119.6. <hi>Luke</hi> 1.6.) and <hi>perſeveres</hi> in well doing to the end of his Life: Then his hope will not be in vain, (<hi>Rom.</hi> 2.7. <hi>Rev.</hi> 2.10.) For (<hi>Tit.</hi> 2.11, 12, 13.) the Goſpel which <hi>teacheth all Men to deny ungodlineſs, and world<g ref="char:EOLhyphen"/>ly luſts and to live ſoberly, righteouſly and godly in this preſent World,</hi> di<g ref="char:EOLhyphen"/>recteth them alſo to <hi>look for that bleſſed hope, and the glorious appea<g ref="char:EOLhyphen"/>rance of the great God, and our Sa<g ref="char:EOLhyphen"/>viour Jeſus Chriſt.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="89" facs="tcp:206867:46"/>
+               <head>CHAP. III. <hi>Of things to be feared and hoped for by a Chriſtian.</hi>
+               </head>
+               <p>
+                  <hi>HE that cometh unto God</hi> muſt <hi>believe,</hi> not only <hi>that he is, (Heb.</hi> 11.6.) but alſo, <hi>that he is</hi> both a <hi>puniſher of evil doers,</hi> (Rom. 2.9.) and <hi>a rewarder of thoſe that di<g ref="char:EOLhyphen"/>ligently ſeek him.</hi> (Heb. 11.6.)</p>
+               <p>God hath <hi>threatned</hi> the <hi>Diſobedi<g ref="char:EOLhyphen"/>ent</hi> with fearful <hi>Judgments</hi> of all kinds, outweighing all the ſhort and brutal Pleaſures of Sin, (<hi>Deut.</hi> 28.15. to <hi>v.</hi> 68. <hi>Pſal.</hi> 11.6. <hi>Rom.</hi> 2.9.) and will at laſt ſay to the impenitent, <hi>Depart from me, ye curſed, into everlaſting Fire, prepared for the Devil and his Angels,</hi> (Mat. 25.41.)</p>
+               <p>He hath alſo encouraged all his Servants, with Promiſes of very great <hi>Rewards,</hi> (Mark 10.30. Rom. 2.7, 10.) to which they may <hi>have an Eye,</hi> (Heb. 11.26.) as being aſſured to them thro the
+<pb n="90" facs="tcp:206867:47"/>Merits of his Son. (<hi>Rom.</hi> 8.17. 1 <hi>John</hi> 5.11.)</p>
+               <p>And as he was <hi>gracious</hi> in <hi>making</hi> his <hi>Promiſes</hi> ſo he will be <hi>juſt</hi> in the <hi>performing</hi> of <hi>them:</hi> To the Righteous <hi>he will deny no good thing,</hi> (Pſ. 84.11.) <hi>Godlineſs hath the pro<g ref="char:EOLhyphen"/>miſe both of this Life, and that which is to come,</hi> (1 <hi>Tim.</hi> 4.8. 1 <hi>John</hi> 2.25.)</p>
+               <p>In <hi>this life,</hi> God hath promiſed to true Chriſtians, <hi>Mercies</hi> both <hi>temporal</hi> and <hi>ſpiritual;</hi> as for <hi>tempo<g ref="char:EOLhyphen"/>ral Mercies</hi> he giveth them to his Children, ſo far as they are con<g ref="char:EOLhyphen"/>venient for them, that they may be <hi>Bleſſings</hi> to them, and not <hi>Snares;</hi> and he hath aſſured thoſe who <hi>love him,</hi> that <hi>all things ſhall work toge<g ref="char:EOLhyphen"/>ther for good to them,</hi> (Rom. 8.28.) He alſo <hi>bleſſeth them</hi> (Eph. 1.3.) <hi>with Spiritual Bleſſings in Christ.</hi> By his holy <hi>Spirit</hi> going along with the means of the Goſpel, and the <hi>ſincere</hi> endeavours of Men, he <hi>enlightens</hi> the <hi>Mind,</hi> and <hi>heals</hi> the <hi>Will,</hi> and <hi>moderates</hi> the <hi>Affections,</hi> and <hi>ſanctifies</hi> the <hi>whole Man.</hi> He <hi>prevents</hi> evil, he <hi>brings</hi> good out of it; he <hi>gives</hi> grace to repent; he
+<pb n="91" facs="tcp:206867:47"/>
+                  <hi>vouchſafes</hi> pardon; he <hi>works in us to will and to do</hi> whilſt we <hi>work out our Salvation with fear and trembling</hi> (Phil. 2.12, 13.) He <hi>ſupports</hi> in trouble; He <hi>ſanctifies</hi> affliction; He <hi>makes</hi> us able to <hi>reſiſt</hi> tempta<g ref="char:EOLhyphen"/>tion; He <hi>ſends deliverance</hi> in his time and way; He gives that <hi>Peace which the World can neither give nor take away.</hi> He <hi>makes</hi> a Man <hi>happy</hi> both in <hi>Life</hi> and <hi>Death.</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>After</hi> Death,</hi> he <hi>delivers</hi> him from the inſupportable Miſeries of <hi>Hell;</hi> and <hi>rewards</hi> his mean and temporary Services, with <hi>Life ever<g ref="char:EOLhyphen"/>laſting,</hi> (1 <hi>John</hi> 2.25) He <hi>giveth</hi> not only <hi>Grace</hi> but <hi>Glory,</hi> even <hi>the e<g ref="char:EOLhyphen"/>ternal Glory</hi> of <hi>Heaven,</hi> (Eph. 4.7. 1 Theſ. 2.12.) He <hi>receiveth</hi> the Souls of the Faithful into <hi>Joy</hi> and <hi>Felicity,</hi> after they are delivered from the burthen of the Fleſh, (2 <hi>Cor.</hi> 5.8. <hi>Phil.</hi> 1.23.) And, at the great day of <hi>Judgment,</hi> he raiſeth this <hi>Mortal Body,</hi> and <hi>ma<g ref="char:EOLhyphen"/>keth it like to Chriſts Glorious Body,</hi> (Phil. 3.21.) and <hi>uniteth</hi> it to the <hi>Soul,</hi> and cauſeth the whole Per<g ref="char:EOLhyphen"/>ſon to be <hi>entirely happy</hi> for ever and ever. <hi>Eye hath not ſeen</hi> (1 Cor.
+<pb n="92" facs="tcp:206867:48"/>2.9.) <hi>neither hath Ear heard, nor hath it entered into the heart of Man</hi> [fully] <hi>to conceive the things which God hath prepared for thoſe that love him;</hi> and all this for performing but a <hi>reaſonable Service</hi> (Rom. 12.1.) in which God alſo aſſiſts him.</p>
+               <p>Seeing now that the goodneſs of the <hi>End,</hi> doth naturally quicken Man in the <hi>way,</hi> and that God hath encouraged the <hi>Obedience</hi> of a Chriſtian with ſuch <hi>exceeding great and precious promiſes,</hi> (2 Pet. 1.4.) it behoves him to <hi>abſtain from all filthineſs of Fleſh and Spirit, and to perfect holineſs in the fear of God,</hi> (2 Cor. 7.1.) And then, after <hi>he has had his Fruit unto holineſs, his End will be everlaſting Life,</hi> (Rom. 6.22.) through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="93" facs="tcp:206867:48"/>
+               <head>CHAP. IV. <hi>Certain Forms of Devoti<g ref="char:EOLhyphen"/>on, to be uſed either in a</hi> Family, <hi>or in the</hi> Clo<g ref="char:EOLhyphen"/>ſet <hi>of a Chriſtian.</hi>
+               </head>
+               <div type="prayer">
+                  <head>A Prayer to be uſed at any time of the day, eſpecially in the <hi>Morning</hi> and <hi>Evening.</hi>
+                  </head>
+                  <p>[When this <hi>Prayer,</hi> or any of the reſt, is uſed in a <hi>Family,</hi> there needs only the <hi>change of the Per<g ref="char:EOLhyphen"/>ſon,</hi> as <hi>We</hi> muſt be put inſtead of <hi>I, <g ref="char:V">Ʋ</g>s</hi> inſtead of <hi>Me, Our</hi> inſtead of <hi>My, Are</hi> inſtead of <hi>Am,</hi> &amp;c.]</p>
+                  <p>O Moſt Holy and Bleſſed Lord God, the Great <hi>Creator</hi> of <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> and <hi>Earth,</hi> and the moſt merciful and gracious Father of Mankind in thy Son Chriſt Jeſus: It is of thy
+<pb n="92" facs="tcp:206867:49"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="93" facs="tcp:206867:49"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="94" facs="tcp:206867:50"/>great <hi>Condeſcenſion</hi> that the Sons of Men may approach thy Preſence, who art Infinite in <hi>Majeſty</hi> and <hi>Pow<g ref="char:EOLhyphen"/>er,</hi> and <hi>canſt do what thou pleaſeſt every where. I</hi> that <hi>am</hi> miſerable <hi>Duſt</hi> and <hi>Aſhes,</hi> do humbly acknow<g ref="char:EOLhyphen"/>ledge the Duty which <hi>I</hi> owe thee, both as <hi>I am</hi> thy Creature, and as <hi>I am</hi> made a Member of the <hi>Bo<g ref="char:EOLhyphen"/>dy</hi> of thy Son. <hi>I am</hi> aſhamed when <hi>I</hi> call to mind <hi>my</hi> forgetfulneſs of thee, and <hi>my</hi> Ingratitude to thee, who have ſo <hi>often</hi> and ſo <hi>grievouſly</hi> ſinned againſt thee, in <hi>Thought, Word</hi> and <hi>Deed,</hi> by <hi>Ignorance, Error</hi> and <hi>Preſumption;</hi> for which thou might<g ref="char:EOLhyphen"/>eſt juſtly caſt <hi>me</hi> off for ever. But Lord I repent; be pleaſed to ac<g ref="char:EOLhyphen"/>cept of <hi>my</hi> Repentance. <hi>Lord, I be<g ref="char:EOLhyphen"/>lieve; help my</hi> weak <hi>Belief.</hi> Pardon all <hi>my</hi> ſins that are paſt, for the Me<g ref="char:EOLhyphen"/>rits of <hi>my</hi> dear Saviour; and pre<g ref="char:EOLhyphen"/>ſerve <hi>me</hi> by thy Grace from offend<g ref="char:EOLhyphen"/>ing thee for the time to come. And when thou haſt dealt thus <hi>graciouſly</hi> with <hi>my Soul,</hi> be pleaſed to extend thy mercy to <hi>my Body</hi> alſo, and give <hi>me</hi> ſuch a ſupply of all things ne<g ref="char:EOLhyphen"/>ceſſary for the ſupport of <hi>it,</hi> as thou
+<pb n="95" facs="tcp:206867:50"/>in thy <hi>Wiſdom</hi> ſhalt ſee moſt con<g ref="char:EOLhyphen"/>venient. And grant that I may uſe the Comforts of this Life with ſuch <hi>Moderation</hi> and <hi>Sobriety,</hi> that <hi>I</hi> may never forfeit the hopes of a better, when <hi>this my Earthly Ta<g ref="char:EOLhyphen"/>bernacle ſhall be diſſolved.</hi> Remove far from <hi>me</hi> all Evil, eſpecially that great Evil of <hi>Sin.</hi> And whereſoever thou ſeeſt <hi>me</hi> apt to fall, thro' the weakneſs of <hi>my Corrupt</hi> Nature, there let thy Strength be moſt gra<g ref="char:EOLhyphen"/>ciouſly ſeen in <hi>my</hi> Preſervation. O Lord, <hi>I</hi> beſeech thee, let not thine Anger Riſe againſt <hi>me</hi> to pu<g ref="char:EOLhyphen"/>niſh <hi>me</hi> in this World; Or if <hi>my</hi> ſins have ſo far provoked thee, that thou wilt not ſpare <hi>me</hi> altogether, <hi>thy VVill be done;</hi> only this <hi>I</hi> hum<g ref="char:EOLhyphen"/>bly beg, by all the meritorious ſufferings of thy dear Son, that thou wilt deliver <hi>me</hi> from <hi>thy VVrath, and from Everlaſting Dam<g ref="char:EOLhyphen"/>nation,</hi> and of thy great <hi>Goodneſs</hi> bring <hi>me</hi> to Life Eternal, through the ſame Jeſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+                  <p>Extend thy <hi>Goodneſs</hi> not only to <hi>me</hi> a miſerable ſinner, but to all mankind. Let <hi>thy VVays be known
+<pb n="96" facs="tcp:206867:51"/>upon Earth, thy ſaving health among all Nations.</hi> Be gracious to Chriſt's <hi>
+                        <g ref="char:V">Ʋ</g>niverſal Church;</hi> more <hi>eſpecially</hi> bleſs theſe <hi>Kingdoms,</hi> and that part of thy Church which is planted in them. And herein be <hi>particularly</hi> gracious to our Soveraign Lord <hi>the King:</hi> Prolong his Days, and pro<g ref="char:EOLhyphen"/>ſper his Government over us: Bleſs the <hi>Princeſs, and all the Royal Family.</hi> Give thy Grace to all the <hi>Nobility</hi> and <hi>Gentry,</hi> and to all that are in <hi>Authority,</hi> that <hi>Justice, Mercy</hi> and <hi>Truth</hi> may flouriſh amongſt us, and <hi>there may be no Complaining in our Streets.</hi> Bleſs all our <hi>Paſtors</hi> and <hi>Teachers,</hi> and proſper their Endea<g ref="char:EOLhyphen"/>vours for the good of <hi>Souls.</hi> Look down in Mercy upon all that are in <hi>Affliction;</hi> give them an entire Re<g ref="char:EOLhyphen"/>ſignation to thy holy Will, and in thy due time ſend a <hi>happy</hi> End to all their Troubles. Let it be <hi>good</hi> for them that they have been un<g ref="char:EOLhyphen"/>der thy Diſcipline. Strengthen the Good and Vertuous with a greater Portion of Grace, and bring all Sinners to Repentance. Preſerve all that travel by <hi>Land</hi> or by <hi>Water,</hi> and give thy bleſ<g ref="char:EOLhyphen"/>ſing
+<pb n="97" facs="tcp:206867:51"/>to thoſe that labour in their ſeveral <hi>Callings, O proſper thou their handy work.</hi> O good God, be graci<g ref="char:EOLhyphen"/>ous to all my <hi>Relations</hi> and <hi>Friends;</hi> convert and pardon my <hi>Enemies.</hi> Deal to all <hi>degrees</hi> and <hi>conditions</hi> of Men, what is moſt <hi>uſeful</hi> and <hi>profi<g ref="char:EOLhyphen"/>table</hi> for them. Finally, I bleſs and praiſe thy holy Name, for all the <hi>Mercies</hi> vouchſafed to me, and to all Mankind, for the ſake of thy dear Son Chriſt Jeſus. I glorifie thee for his miraculous <hi>Birth, Life, Death, Reſurrection</hi> and <hi>Aſcenſion,</hi> and for his <hi>Interceſſion</hi> at thy right Hand for us; and for the <hi>ſending</hi> of the Holy Ghoſt; for the wonderful Preſervation of thy Church in all Ages; for the good <hi>Examples</hi> of all Holy Men and Women that have gone before us; for the means of <hi>Grace,</hi> and for the hope of <hi>Glory.</hi> I likewiſe magnifie Thee for my <hi>Health, Strength, Food</hi> and <hi>Rayment;</hi> for the Preſervation of <hi>my Self, my Friends</hi> and <hi>Relations,</hi> and for all the Comforts of <hi>this Life,</hi> humbly be<g ref="char:EOLhyphen"/>ſeeching Thee to give us all Grace to live ſo <hi>godly, ſoberly</hi> and <hi>righte<g ref="char:EOLhyphen"/>ouſly in this preſent World,</hi> that at the
+<pb n="98" facs="tcp:206867:52"/>end of our Days, we may come to thoſe everlaſting Joys, <hi>which thou hast prepared for thoſe that love thee;</hi> through Jeſus Chriſt our Lord, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>When this Prayer is uſed in the Morning, add that which follows.</head>
+                  <p>O God, who by thy good <hi>Pro<g ref="char:EOLhyphen"/>vidence</hi> haſt watched over me <hi>the Night</hi> that is <hi>paſs'd,</hi> be Thou pleas'd alſo to preſerve me <hi>this Day;</hi> defend me by thy mighty power from all things <hi>hurtful,</hi> and grant me all things <hi>needful</hi> both for my <hi>Soul</hi> and <hi>Body;</hi> and proſper what I ſhall go about; through Jeſus Chriſt, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>When in the Evening, add this.</head>
+                  <p>BE thou pleaſed <hi>this Night</hi> to protect and defend me, and all that Thou in thy good Providence haſt given me, from all dangers;
+<pb n="99" facs="tcp:206867:52"/>and grant me ſuch a comfortable and refreſhing <hi>Sleep,</hi> as may enable me to ſerve Thee better <hi>the Day following;</hi> through Chriſt, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>End theſe Prayers as follows.</head>
+                  <p>
+                     <hi>Our Father, which art in Heaven, hallowed be thy Name. Thy Kingdom come. Thy Will be done in Earth, as it is in Heaven. Give us this Day our daily Bread. And forgive us our Treſpaſſes, as we forgive them that Treſpaſs againſt us. And lead us not into Temptation, but deliver us from Evil. For thine is the Kingdom, the Power, and the Glory, for ever and ever,</hi> Amen. (Mat. 6.9. Luke 11.2.)</p>
+                  <p>The Grace of our Lord Jeſus Chriſt, the Love of God, and the Followſhip of the Holy Ghoſt, be with me now, and evermore, <hi>A<g ref="char:EOLhyphen"/>men.</hi> (2 <hi>Cor.</hi> 13, 14.)</p>
+               </div>
+               <div type="prayer">
+                  <pb n="100" facs="tcp:206867:53"/>
+                  <head>A Brief <hi>Paraphraſe</hi> on the <hi>Lord's Prayer,</hi> to be uſed at any time as a Prayer.</head>
+                  <p>
+                     <hi>[Preface.]</hi> O Lord, the <hi>Creator</hi> and <hi>Preſerver</hi> of all Men, <hi>Heaven is thy Throne, and the Earth thy Footstool.</hi> [<hi>Petition</hi> 1.] We entirely deſire that <hi>thy Name</hi> may be <hi>glorified</hi> by us and by all the World, who have had ſo many Experiences how <hi>great,</hi> how <hi>wiſe,</hi> and how <hi>merciful</hi> thou art. 2. Rule thou in the hearts of all Mankind by thy <hi>Grace,</hi> and ſo prepare them for thy Kingdom of <hi>Glory.</hi> 3. And ſince thy Will is <hi>holy,</hi> and <hi>juſt,</hi> and <hi>wiſe,</hi> may we on <hi>Earth</hi> yield as ready and chearful an obedience to it in all things, as the bleſſed <hi>Angels</hi> themſelves do, who ſtand in thy Preſence, and do whatever thou commandeſt them. 4. Un<g ref="char:EOLhyphen"/>leſs Thou <hi>preſervest</hi> us, we all <hi>pe<g ref="char:EOLhyphen"/>riſh.</hi> We therefore humbly be<g ref="char:EOLhyphen"/>ſeech Thee, that Thou wouldeſt give us all things needful both for our Souls and Bodies, and bleſs
+<pb n="101" facs="tcp:206867:53"/>us in the due uſe of them. We are indeed unworthy of ſuch Mer<g ref="char:EOLhyphen"/>cies, by reaſon of our <hi>manifold</hi> Tranſgreſſions; But 5. We hum<g ref="char:EOLhyphen"/>bly hope, Thou wilt in <hi>tender com<g ref="char:EOLhyphen"/>paſſion</hi> to us, pardon all our <hi>Offences</hi> againſt Thee, as we do ſincerely forgive all thoſe who have <hi>offended</hi> againſt us; and we beſeech Thee to encreaſe this Charity in us. 6. And together with thy Pardon for all that is <hi>paſt,</hi> we implore thy Grace to preſerve us continually from <hi>offending</hi> Thee for the <hi>time to come.</hi> And to that end, do Thou by thy <hi>Providence,</hi> either prevent us from falling into Temptations, or by thy <hi>Grace</hi> ſo aſſiſt us, that we may overcome them. Deliver us from the <hi>Snares</hi> and <hi>Malice</hi> of the <hi>evil one,</hi> and from all ſin and wickedneſs, and from the Miſeries of this Life, ſo far as thou ſeeſt fit for us; and a<g ref="char:EOLhyphen"/>bove all from everlaſting Death.</p>
+                  <p>
+                     <hi>[Concluſion.]</hi> Hear us, and gra<g ref="char:EOLhyphen"/>ciouſly anſwer our Petitions, for thou art the <hi>great King,</hi> whoſe <hi>power</hi> is infinite; and to thee ſhall all the <hi>glory</hi> of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>goodneſs</hi> and <hi>mer<g ref="char:EOLhyphen"/>cy</hi> be returned, for ever and ever. <hi>Amen. So be it.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <pb n="102" facs="tcp:206867:54"/>
+                  <head>On the Lord's Day, before Church, add this to the general Prayer.</head>
+                  <p>IN an humble and thankful ſenſe of thy infinite <hi>goodneſs,</hi> O Lord, who art pleaſed to admit us thy <hi>unworthy Creatures,</hi> to tread thy <hi>Courts;</hi> I am going to thine <hi>Houſe,</hi> there to preſent my <hi>Soul</hi> and <hi>Body to thee</hi> in the <hi>Aſſembly</hi> of thy <hi>Saints</hi> O do thou <hi>draw nigh</hi> to me, who am <hi>drawing nigh</hi> to thee in a holy <hi>Fel<g ref="char:EOLhyphen"/>lowſhip</hi> with thoſe who profeſs the Chriſtian Faith. Let thy Holy Spirit compoſe my Mind to a <hi>ſe<g ref="char:EOLhyphen"/>rious</hi> and <hi>devout</hi> attention in all the parts of thy <hi>Divine Service.</hi> Let me praiſe thy Name with <hi>Chear<g ref="char:EOLhyphen"/>fulneſs,</hi> pray unto thee with <hi>Ear<g ref="char:EOLhyphen"/>neſtneſs,</hi> and hear thy word with <hi>Reverence:</hi> And vouchſafe more fully to inform me of my Duty, to correct and amend what is amiſs in me, to encourage and ſtrengthen my good <hi>Reſolutions,</hi> and to aſſiſt me in all well-doing for the time to come: That ſo growing <hi>every Day</hi> better and better by my Commu<g ref="char:EOLhyphen"/>nion
+<pb n="103" facs="tcp:206867:54"/>with Thee, I may become ſuch as thou canſt love and delight in <hi>now,</hi> and wilt reward at the great Day of the Lord Jeſus, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>When you come from Church, pray thus,</head>
+                  <p>I adore thee again, O Lord of <hi>Life</hi> and <hi>Glory,</hi> and do moſt humbly beſeech thee to accept of that <hi>dedication</hi> I have made of my <hi>Soul</hi> and <hi>Body</hi> to thee, with <hi>Prayers</hi> and <hi>Praiſes</hi> in the publick Congregation Pardon all the wan<g ref="char:EOLhyphen"/>dring and <hi>evil Thoughts,</hi> and all the unfit <hi>Actions</hi> I may have been guil<g ref="char:EOLhyphen"/>ty of in my <hi>attendance</hi> upon thee. Be merciful to me in pardoning all my ſins, and endue me with the grace of thy Holy Spirit. Pre<g ref="char:EOLhyphen"/>ſerve in me always a <hi>Religious ſenſe</hi> of thee, whereever <hi>I am,</hi> or whatſoever <hi>I do.</hi> O Bleſſed Jeſus, I beſeech thee that thy holy <hi>Laws</hi>
+                     <pb n="104" facs="tcp:206867:55"/>may be more deeply engraven on my heart: O that every truth I have learnt <hi>this day,</hi> may be ſo faithfully remembred by me, as may make me more <hi>diligent</hi> in my <hi>Calling,</hi> more <hi>uſeful</hi> in my <hi>Conver<g ref="char:EOLhyphen"/>ſation,</hi> more <hi>dutiful</hi> in all my <hi>Rela<g ref="char:EOLhyphen"/>tions,</hi> and more <hi>contented</hi> in all <hi>Conditions;</hi> that ſo <hi>running the way of thy Commandments,</hi> I may at length attain thy <hi>gracious Promiſes,</hi> and be made Partaker of thy ever<g ref="char:EOLhyphen"/>laſting Kingdom; through Jeſus Chriſt our Lord, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <pb n="105" facs="tcp:206867:55"/>
+                  <head>A Prayer before Confirma<g ref="char:EOLhyphen"/>tion.</head>
+                  <p>O Almighty God and Merciful Father, through whoſe <hi>gracious Providence</hi> over me I have been <hi>admitted</hi> into thy Church by <hi>Bap<g ref="char:EOLhyphen"/>tiſm,</hi> pardon I beſeech thee all my former <hi>Breaches</hi> of that holy <hi>Co<g ref="char:EOLhyphen"/>venant</hi> which I was then <hi>entred into.</hi> And now that I am going to <hi>renew</hi> my <hi>Baptiſmal Vows</hi> in <hi>my own Perſon,</hi> ſo ſtrengthen me with all the gra<g ref="char:EOLhyphen"/>ces of thy Holy Spirit that I may make <hi>open Profeſſion</hi> of thy Holy Religion at all times hereafter, and <hi>ſpeak,</hi> and <hi>think</hi> and <hi>live</hi> as be<g ref="char:EOLhyphen"/>comes a <hi>true</hi> Member of Chriſt. Give me Grace to <hi>mortifie</hi> all my evil and corrupt Affections, and daily to proceed in all <hi>vertue and godlineſs of living,</hi> till I at laſt at<g ref="char:EOLhyphen"/>tain <hi>the end of my hopes, even the Salvation of my Soul,</hi> through the merits of Jeſus Chriſt our Lord <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <pb n="106" facs="tcp:206867:56"/>
+                  <head>A Prayer before the Sacrament of the Lord's Supper.</head>
+                  <p>O Holy, Juſt and Gracious God, it is of thy Mercy alone that I am not conſumed; and <hi>becauſe thy Compaſſions fail not.</hi> I have by my <hi>manifold Provocations</hi> deſerved the utmoſt of thy wrath and indigna<g ref="char:EOLhyphen"/>tion againſt me; yet behold thou haſt not only <hi>ſpared</hi> me, but haſt now alſo <hi>invited</hi> me to the <hi>renewing</hi> of that <hi>Holy Covenant</hi> which I have ſo <hi>often</hi> and ſo <hi>ſhamefully</hi> broken. I am not worthy of that <hi>daily bread</hi> which ſuſtains my <hi>bodily</hi> Life, how then ſhall I dare to approach thy <hi>Holy Table,</hi> to partake of that <hi>Bread of Life</hi> which thou haſt prepared for the food of Pious and Holy <hi>ſouls?</hi> O Lord, it is true, my guiltineſs makes me tremble to come, and yet it makes me not dare to ſtay away. For where can my <hi>polluted</hi> Soul be waſhed, but in the <hi>Fountain</hi> of thy Sons Blood? That alone which was ſhed <hi>for the remiſſion of ſins,</hi> can take away all
+<pb n="107" facs="tcp:206867:56"/>its <hi>ſtains.</hi> Hither therefore I come, according to thy gracious <hi>Invita<g ref="char:EOLhyphen"/>tion,</hi> and hope that my <hi>Perſon</hi> and <hi>Service</hi> may be accepted in thy be<g ref="char:EOLhyphen"/>loved Son. To that end, do thou prepare my heart to draw nigh to thee. Let thy Divine Spirit <hi>breath</hi> into my Soul ſuch holy Thoughts, and devout Affections, as may be<g ref="char:EOLhyphen"/>come one who <hi>commemorates</hi> the death of the Son of God, who <hi>was wounded for our Iniquities,</hi> and <hi>bruiſed for our Tranſgreſſions.</hi> O let my heart be <hi>deeply</hi> affected with ſuch a ſenſe of ſin, as may make me hate the very thoughts of eve<g ref="char:EOLhyphen"/>ry evil way for the future, and chuſe to endure any thing, rather than to deſpiſe the <hi>riches</hi> of his <hi>love.</hi> And while I remember the <hi>love</hi> of my Bleſſed Saviour in dying for me a Sinner, may I never for<g ref="char:EOLhyphen"/>get to exerciſe <hi>Charity</hi> towards all Men, even <hi>Enemies</hi> as well as <hi>Friends.</hi> Let every <hi>Grace</hi> be ſo confirmed and ſtrengthened in me, that I may ſerve thee <hi>ſincerely</hi> and <hi>accep<g ref="char:EOLhyphen"/>tably</hi> all the days of my Life, <hi>per<g ref="char:EOLhyphen"/>fecting Holineſs in thy fear.</hi> Fulfil, O Gracious Lord, all my <hi>Petitions,</hi>
+                     <pb n="108" facs="tcp:206867:57"/>and grant that I may be made Partaker of the <hi>benefits</hi> of Chriſt's moſt bleſſed <hi>Body</hi> and <hi>Blood</hi> here, and of his <hi>glory</hi> hereafter; through the merits of the ſame, our Saviour Jeſus Chriſt, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer at the Sacrament, immediately before Recei<g ref="char:EOLhyphen"/>ving.</head>
+                  <p>O Bleſſed Lord Jeſus, I remember with all <hi>humility</hi> and <hi>love,</hi> and <hi>gratitude,</hi> how thy Sacred <hi>Body</hi> was broken and thy Precious <hi>Blood</hi> poured out for <hi>ſinners.</hi> And I am now come to receive this <hi>Bread,</hi> and this <hi>Wine,</hi> which thou haſt appointed as the <hi>Sacramental Repreſentations</hi> of them. O let that <hi>Sacrifice</hi> of thine which thou didſt once make, when thou didſt <hi>offer</hi> up thy Sacred <hi>Body</hi> upon the <hi>Croſs,</hi> be effectual for the <hi>Salvation</hi> of my <hi>Soul</hi> and <hi>Body.</hi> Here is that which my <hi>Soul</hi> longeth and thirſteth af<g ref="char:EOLhyphen"/>ter; O let me not be <hi>ſent empty away.</hi> Give me <hi>thy ſelf,</hi> and with
+<pb n="109" facs="tcp:206867:57"/>
+                     <hi>thy ſelf,</hi> thy Holy Spirit to take poſſeſſion of me; and let me feel that it always dwells in me by thoſe <hi>Heavenly Graces</hi> moving in my Soul, which are the bleſſed <hi>fruits</hi> and <hi>effects</hi> of it. Awaken m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Repentance,</hi> encreaſe my <hi>Faith,</hi> inflame my <hi>Charity, Thankfulneſs</hi> and <hi>Devotion.</hi> Make me a <hi>meet</hi> Partaker of thy Holy Supper <hi>here,</hi> and of the Jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s of thy King<g ref="char:EOLhyphen"/>dom <hi>hereafter;</hi> through Chriſt Je<g ref="char:EOLhyphen"/>ſus, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer after the Sacra<g ref="char:EOLhyphen"/>ment.</head>
+                  <p>I Return unto thee, O moſt gra<g ref="char:EOLhyphen"/>cious and glorious God, all <hi>praiſe</hi> and <hi>thanks</hi> for thine infinite and inconceivable <hi>Mercies</hi> to us the Children of Men; and eſpe<g ref="char:EOLhyphen"/>ciall, I deſire to bleſs and mag<g ref="char:EOLhyphen"/>nify thy Hol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Name, for that <hi>wonderful</hi> love of thine, in ſending thy dear Son to <hi>die</hi> for <hi>Sinners:</hi> and for that great Grace which thou haſt now <hi>vouchſafed</hi> thy hum<g ref="char:EOLhyphen"/>ble
+<pb n="110" facs="tcp:206867:58"/>Servant, in giving me a <hi>freſh</hi> aſſurance of an <hi>Intereſt</hi> in that <hi>pre<g ref="char:EOLhyphen"/>cious</hi> Death, by admitting me to partake of thy holy Sacrament, or<g ref="char:EOLhyphen"/>dained in <hi>remembrance</hi> of it. O may I never forget <hi>what thou haſt done for my Soul!</hi> but carry the thoughts of it along with me to all the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctions of my life, that it may be in me a <hi>Spring</hi> of <hi>entire</hi> obedience unto thee <hi>all</hi> the reſt of my da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s. This is indeed my unfeigned de<g ref="char:EOLhyphen"/>ſire, that! may never break thoſe <hi>Vows</hi> and <hi>Promiſes</hi> of a Holy Life which I have made to thee <hi>this day:</hi> But I am afraid of my own <hi>treache ous</hi> Heart, and the Aſſaults which will be made upon me by my <hi>ſpiritual Enemies,</hi> leaſt they ſhould <hi>betray</hi> me into the breach of thy Holy Commandments. O therefore let the aſſiſtance of thy holy Spirit be <hi>ever</hi> with me, and the grace <hi>always</hi> prevent and fol<g ref="char:EOLhyphen"/>low me, and then I truſt I ſhall approve my ſelf thy <hi>faithful</hi> Servant in <hi>all</hi> things, and <hi>finiſh</hi> my courſe with joy. With my own, I <hi>deſire</hi> the <hi>happineſs</hi> of all Mankind, that they who are <hi>ſtill</hi> in <hi>darkneſs,</hi> and
+<pb n="111" facs="tcp:206867:58"/>in the <hi>ſhadow of Death,</hi> may <hi>ſee the ſalvation of God,</hi> and taſte how <hi>Gracious</hi> thou art to <hi>Chriſtians;</hi> and that all thoſe who are <hi>called by the Name of Chriſt, may depart from Iniquity and adorn the Doctrine of Chriſt their Saviour in all things.</hi> May we all glorifie thy Name in <hi>this</hi> World, and live for ever to praiſe thee in the World <hi>to come;</hi> through Chriſt our Lord, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer to be uſed <hi>by,</hi> or <hi>with,</hi> or <hi>for</hi> a Sick Per<g ref="char:EOLhyphen"/>ſon.</head>
+                  <p>[<hi>Note,</hi> that in this <hi>Prayer,</hi> when uſed for <hi>another, I</hi> muſt be changed to <hi>He, She,</hi> or <hi>We,</hi> and <hi>Me,</hi> to <hi>Him</hi> or <hi>Her,</hi> and <hi>My</hi> to <hi>His</hi> or <hi>Her.</hi>]</p>
+                  <p>O Moſt Righteous and Merciful Lord, the God of <hi>Health</hi> and of <hi>Sickneſs,</hi> of <hi>Life</hi> and of <hi>Death, I</hi> moſt humbly acknowledge the <hi>ju<g ref="char:EOLhyphen"/>ſtice</hi> of thy preſent <hi>Viſiation</hi> upon <hi>thy Servant,</hi> whoſe Sins had <hi>long agoe</hi> deſerved it from thee. Yet ſince thou deſigneſt not the <hi>ruine,</hi>
+                     <pb n="112" facs="tcp:206867:59"/>but the <hi>amendment</hi> of thoſe whom thou <hi>ſcourgeſt, I</hi> beſeech thee by thy Grace to ſanctify this <hi>Cor<g ref="char:EOLhyphen"/>rection</hi> to <hi>me</hi> that this ſickneſs to <hi>my Body</hi> may be a means of health to <hi>my Soul.</hi> Deliver <hi>Me</hi> from all <hi>frowardneſs</hi> and <hi>impatience</hi> under it, and give <hi>me</hi> an <hi>entire reſignation</hi> to thy <hi>Divine will.</hi> If in thy good Providence thou haſt appointed that <hi>I</hi> ſhall live <hi>longer</hi> upon Earth, Lord bleſs all means that are u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed for <hi>my</hi> recovery, and give <hi>me</hi> grace to <hi>amend</hi> the reſt of <hi>my</hi> Life and with good works to <hi>glorifie</hi> thy ho<g ref="char:EOLhyphen"/>ly Name. But if thou haſt other<g ref="char:EOLhyphen"/>wiſe <hi>determined,</hi> and this Sickneſs muſt be unto <hi>Death,</hi> O fit and pre<g ref="char:EOLhyphen"/>pare <hi>me</hi> for it. Wean <hi>my</hi> Heart from the World and all the <hi>fa<g ref="char:EOLhyphen"/>ding</hi> Vanities of it. Give <hi>me un<g ref="char:EOLhyphen"/>feigned</hi> Repentance for all the <hi>Er<g ref="char:EOLhyphen"/>rors</hi> of <hi>my</hi> Life paſt, and ſeal <hi>my</hi> Pardon in <hi>Heaven, before I go hence and be no more ſeen. O lift up thy Countenance upon me,</hi> and in all the <hi>pains</hi> of <hi>my Body,</hi> in all the <hi>Agonies</hi> of <hi>my Spirit,</hi> let thy Comforts re<g ref="char:EOLhyphen"/>freſh <hi>my</hi> Soul And when the time of <hi>my</hi> departure is come, receive
+<pb n="113" facs="tcp:206867:59"/>
+                     <hi>me</hi> into thoſe <hi>Heavenly</hi> Habita<g ref="char:EOLhyphen"/>tions, where the Souls of them that ſleep in the Lord Jeſus, en<g ref="char:EOLhyphen"/>joy <hi>perpetual</hi> reſt and felicity. Grant this O Lord, for the Merits of the ſame Jeſus Chriſt, thy only Son, and our only Saviour and Redeemer, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer to be ſaid by one whoſe Friend is dead.</head>
+                  <p>O Righteous Lord, I acknow<g ref="char:EOLhyphen"/>ledge thy <hi>wiſdom</hi> and <hi>goodneſs</hi> in all thy <hi>Diſpenſations</hi> towards the Children of Men, and do therefore <hi>ſubmit</hi> my ſelf, and all I have, to thy <hi>Diſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſal,</hi> who knoweſt <hi>best</hi> what is fit for us. It was of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Mercy</hi> that I ſo long enjoyed the comfort of my <hi>Friend,</hi> whom thou haſt now taken from me. <hi>The Lord gave, and the Lord hath taken away, Bleſſed be the Name of the Lord.</hi> From Thee all <hi>good</hi> things do come, and thou canſt <hi>repair</hi> this <hi>loſs</hi> to me, by ad<g ref="char:EOLhyphen"/>ding to the number of my <hi>Friends.</hi>
+                     <pb n="114" facs="tcp:206867:60"/>But however thou ſhalt deal with me in that particular, yet this one thing I moſt humbly beg, be thou my <hi>God</hi> and my <hi>Friend,</hi> and it is enough. In thee ſhall be m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>truſt</hi> as long as I live; and when thou ſhalt call me hence, receive me into <hi>Heaven,</hi> where I hope my <hi>Friend</hi> is, that we may there joyn with all thy Holy Angels and Saints, to ſing thy Praiſes for ever and ever; Grant this for Jeſus Chriſt his ſake, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer to be ſaid for one who has loſt a Friend.</head>
+                  <p>O Father of Mercies, and God of all Comforts, who in a more <hi>eſpecial</hi> manner haſt al<g ref="char:EOLhyphen"/>ways ſhewed thy ſelf a <hi>helper</hi> of the <hi>Friendleſs,</hi> and a <hi>Father</hi> of the <hi>Fatherleſs,</hi> and a <hi>Husband</hi> to the <hi>Widow;</hi> look down with an Eye of Pity and Compaſſion upon <hi>thy Servant;</hi> now in great grief and bitterneſs of heart, for the loſs of <hi>his</hi> dear Friend; and give <hi>him</hi> grace to conſider that <hi>it was thy
+<pb n="115" facs="tcp:206867:60"/>doing,</hi> who <hi>doſt not afflict willingly, nor grieve the Children of Men.</hi> And let this teach <hi>him</hi> to mode<g ref="char:EOLhyphen"/>rate all <hi>his</hi> Paſſions, and to bear <hi>his</hi> Affliction with an <hi>humble, meek</hi> and <hi>patient Spirit.</hi> Free <hi>him</hi> from all <hi>diſcontented</hi> and <hi>distrustiul</hi> Thoughts, and help <hi>him</hi> to <hi>cast all his care upon Thee, who carest for him,</hi> and canſt do infinitely more for <hi>him,</hi> than the moſt <hi>tender</hi> and <hi>faithful Friend</hi> on Earth. Lift up <hi>his</hi> Thoughts towards that <hi>bleſſed</hi> Place, where thou <hi>his</hi> God and Saviour art; and ſo aſſiſt <hi>him</hi> with thy grace to follow th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bleſſed Son in <hi>purity</hi> of living, during <hi>his</hi> Pilgrimage upon Earth, that <hi>he</hi> may hereafter <hi>enter into</hi> his <hi>joy,</hi> and with all thoſe who are de<g ref="char:EOLhyphen"/>parted in thy <hi>fear,</hi> be made Par<g ref="char:EOLhyphen"/>taker of everlaſting <hi>Glory;</hi> through the ſame Lord Jeſus, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Grace before Meat.</head>
+                  <p>LOrd pardon all our Sins; give us grace to make a temperate and diſcreet uſe of thy <hi>Creatures</hi> which
+<pb n="116" facs="tcp:206867:61"/>thou haſt <hi>now</hi> provided for us; that <hi>whether we eat or drink, or whatſoever we do, we may do all to thy Glory;</hi> through Jeſus Chriſt our Lord, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>After Meat.</head>
+                  <p>WE praiſe th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Holy Name, O Lord, for all thy Mercies, and eſpecially for <hi>this refreſhment</hi> which thou haſt now given <hi>us.</hi> Enable us thereby to do thee <hi>fur<g ref="char:EOLhyphen"/>ther</hi> Service. Bleſs thy <hi>Holy Church,</hi> preſerve our <hi>King, the Royal Fa<g ref="char:EOLhyphen"/>mily,</hi> and theſe <hi>Realms;</hi> grant us <hi>Peace</hi> and <hi>Truth</hi> here, and make us Partakers of thy <hi>Glory</hi> hereafter; through Jeſus Chriſt our Lord, <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:206867:61"/>
+            <head>A Table of the <hi>Contents.</hi>
+            </head>
+            <list>
+               <head>A.</head>
+               <item>
+                  <hi>OF</hi> Adoration Page 41</item>
+               <item>
+                  <hi>Of Moderateneſs in</hi> Apparel Page 71</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>
+                  <hi>Of</hi> Baptiſm Page 24, 50, 61</item>
+               <item>
+                  <hi>Of</hi> Blaſphemies Page 38</item>
+               <item>
+                  <hi>Not to hurt the</hi> Bodies <hi>of our Neigh<g ref="char:EOLhyphen"/>bours</hi> Page 85</item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>
+                  <hi>Of</hi> Charity Page 76, 77</item>
+               <item>
+                  <hi>Of Diligence in our</hi> Callings Page 62</item>
+               <item>
+                  <hi>Of</hi> Chaſtity Page 63</item>
+               <item>
+                  <hi>Duty of</hi> Children 81</item>
+               <item>
+                  <hi>Of</hi> Conſideration Page 59</item>
+               <item>
+                  <hi>Arguments for</hi> Contentment Page 51 <hi>to</hi> 58</item>
+               <item>
+                  <hi>Duty of</hi> Creditors Page 83</item>
+               <item>
+                  <hi>The</hi> Creed <hi>Explained</hi> Page 13</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>
+                  <hi>Of</hi> Death Page 32</item>
+               <item>
+                  <hi>Duty of</hi> Debtors Page 83</item>
+               <item>
+                  <hi>Of</hi> Secret Devotion Page 46</item>
+               <item>
+                  <hi>Certain Forms of</hi> Devotion, <hi>either in a Family of Cloſet</hi> Page 93</item>
+               <item>
+                  <hi>Ways of</hi> Diſhonouring <hi>God</hi> Page 38</item>
+               <item>
+                  <hi>Of Temperance in</hi> Drinks Page 66</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>
+                  <hi>Of the</hi> Faith <hi>of a Christian</hi> Page 5</item>
+               <pb facs="tcp:206867:62"/>
+               <item>
+                  <hi>How he comes to have that</hi> Faith Page 6</item>
+               <item>
+                  <hi>Of</hi> Faſting Page 33</item>
+               <item>
+                  <hi>Of the</hi> Fear <hi>of God</hi> Page 29</item>
+               <item>
+                  <hi>Things to be</hi> Feared Page 89</item>
+               <item>
+                  <hi>Duty of</hi> Friends Page 82</item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>
+                  <hi>Of Duties towards</hi> God Page 27</item>
+               <item>
+                  <hi>Not to hurt our Neighbour as to his</hi> Goods Page 86</item>
+               <item>Grace <hi>before Meat</hi> Page 115</item>
+               <item>Grace <hi>after Meat</hi> Page 116</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>
+                  <hi>Of</hi> Honouring <hi>God</hi> Page 34</item>
+               <item>
+                  <hi>Of things to be</hi> Hoped <hi>for</hi> page 89</item>
+               <item>
+                  <hi>Of</hi> Humility Page 61</item>
+               <item>
+                  <hi>Duty of</hi> Husbands Page 81</item>
+            </list>
+            <list>
+               <head>J.</head>
+               <item>
+                  <hi>Of</hi> Juſtice <hi>in dealings</hi> Page 74</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>
+                  <hi>Of the</hi> Love <hi>of God</hi> Page 27</item>
+               <item>Lords-<hi>day</hi> Page 40, 41</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>
+                  <hi>Duty of</hi> Magiſtrates <hi>and</hi> Miniſters Page 78</item>
+               <item>
+                  <hi>Duty of</hi> Maſters Page 83</item>
+               <item>
+                  <hi>Of the</hi> Matrimonial <hi>Vow</hi> Page 81</item>
+               <item>
+                  <hi>Of Temporance in</hi> Meats Page 65</item>
+               <item>
+                  <hi>Of Divine</hi> Meditation Page 35</item>
+               <item>
+                  <hi>The Benefits of</hi> It Page 36</item>
+               <item>
+                  <hi>Of</hi> Moderateneſs Page 65</item>
+               <item>
+                  <hi>Of</hi> Murder Page 85</item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>
+                  <hi>Duties towards our</hi> Neighbours Page 73</item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>
+                  <hi>Of</hi> Oaths Page 38</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>
+                  <hi>Duty of</hi> Parents Page 79</item>
+               <item>
+                  <hi>Of</hi> Perjury Page 39</item>
+               <item>
+                  <hi>Of things to be</hi> Practiſed <hi>by a Chri<g ref="char:EOLhyphen"/>ſtian</hi> Page 27</item>
+               <item>
+                  <hi>Of</hi> Prayer, <hi>and its Parts</hi> Page 42</item>
+               <item>
+                  <hi>Morning and Evening</hi> Prayer <hi>for a Family or ſingle Perſon</hi> Page 93</item>
+               <item>
+                  <hi>Paraphraſe on the Lords</hi> Prayer Page 100</item>
+               <item>Prayer <hi>before Church</hi> Page 102</item>
+               <item>Prayer after <hi>Church</hi> Page 103</item>
+               <item>Prayer before <hi>Confirmation</hi> Page 105</item>
+               <item>Prayer before <hi>the Sacrament</hi> Page 106</item>
+               <item>Prayer at <hi>the Sacrament</hi> Page 108</item>
+               <item>Prayer after <hi>the Sacrament</hi> Page 109</item>
+               <item>Prayer by, with, <hi>or</hi> for <hi>a ſick Perſon</hi> Page 111</item>
+               <item>Prayer <hi>When a</hi> Friend <hi>is</hi> dead Page 113</item>
+               <item>Prayer <hi>For one who has</hi> loſt <hi>a</hi> Friend Page 114</item>
+               <item>
+                  <hi>Of ſinging of</hi> Pſaims Page 45</item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>
+                  <hi>Of Moderateneſs in</hi> Recreations Page 70</item>
+               <item>
+                  <hi>Of</hi> Repentance <hi>and turning to God</hi> Page 30</item>
+               <item>
+                  <hi>The Danger of delaying</hi> It Page 32</item>
+               <pb facs="tcp:206867:63"/>
+               <item>
+                  <hi>Of</hi> Reproof Pae 76</item>
+               <item>
+                  <hi>Of</hi> Reſolution page 60</item>
+               <item>
+                  <hi>Against</hi> Revenge Page 88</item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>
+                  <hi>Authority of</hi> Scriptures Page 8</item>
+               <item>
+                  <hi>Duties towards our</hi> Selves Page 59</item>
+               <item>
+                  <hi>Duty of</hi> Servants Page 84</item>
+               <item>
+                  <hi>Of Moderateneſs in</hi> Sleep Page 70</item>
+               <item>
+                  <hi>Of the Duty of</hi> Subjects Page 78</item>
+               <item>
+                  <hi>Of the</hi> Lord's Supper Page 47</item>
+               <item>
+                  <hi>Againſt hurting the</hi> Soul <hi>of our Neigh<g ref="char:EOLhyphen"/>bour</hi> 84</item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>
+                  <hi>Of</hi> Temperance Page 65, 66</item>
+               <item>
+                  <hi>Of</hi> Thankſgiving Page 45</item>
+               <item>
+                  <hi>Particularly after Meals</hi> Page 37</item>
+               <item>
+                  <hi>Of</hi> Truſting <hi>in God</hi> Page 50</item>
+               <item>
+                  <hi>Of ſpeaking</hi> Truth page 73</item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>
+                  <hi>Duty of</hi> Wives Page 81</item>
+               <item>
+                  <hi>Againſt hurting our Neighbour as to his</hi> Wife Page 86</item>
+               <item>
+                  <hi>Of</hi> Worſhipping <hi>God.</hi> Page 41</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206867:63"/>
+         </div>
+      </back>
+   </text>
+</TEI>
